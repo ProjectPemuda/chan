@@ -1,0 +1,2452 @@
+[
+  {
+    "index": 1,
+    "nama": "Kashike",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kashike.jpg"
+  },
+  {
+    "index": 2,
+    "nama": "Ranke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ranke.jpg"
+  },
+  {
+    "index": 3,
+    "nama": "Ishidate",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ishidate.jpg"
+  },
+  {
+    "index": 4,
+    "nama": "Emiru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/emiru.jpg"
+  },
+  {
+    "index": 5,
+    "nama": "Tonbee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tonbee.jpg"
+  },
+  {
+    "index": 6,
+    "nama": "Hana Inuzuka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hana-inuzuka.jpg"
+  },
+  {
+    "index": 7,
+    "nama": "Hikaru Tsuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hikaru-tsuki.jpg"
+  },
+  {
+    "index": 8,
+    "nama": "Fire Daimyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fire-daimyo.jpg"
+  },
+  {
+    "index": 9,
+    "nama": "Manabu Akamon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/manabu-akamon.jpg"
+  },
+  {
+    "index": 10,
+    "nama": "Kamikiri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kamikiri.jpg"
+  },
+  {
+    "index": 11,
+    "nama": "Momiji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/momiji.jpg"
+  },
+  {
+    "index": 12,
+    "nama": "Tsume Inuzuka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsume-inuzuka.jpg"
+  },
+  {
+    "index": 13,
+    "nama": "Anko Mitarashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/anko-mitarashi.jpg"
+  },
+  {
+    "index": 14,
+    "nama": "Hotaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hotaru.jpg"
+  },
+  {
+    "index": 15,
+    "nama": "Nanafushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nanafushi.jpg"
+  },
+  {
+    "index": 16,
+    "nama": "Yakku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yakku.jpg"
+  },
+  {
+    "index": 17,
+    "nama": "Kotohime",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kotohime.jpg"
+  },
+  {
+    "index": 18,
+    "nama": "Princess Kasumi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/princess-kasumi.jpg"
+  },
+  {
+    "index": 19,
+    "nama": "Akari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akari.jpg"
+  },
+  {
+    "index": 20,
+    "nama": "Inoichi Yamanaka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/inoichi-yamanaka.jpg"
+  },
+  {
+    "index": 21,
+    "nama": "Chikara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/chikara.jpg"
+  },
+  {
+    "index": 22,
+    "nama": "Kimimaro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kimimaro.jpg"
+  },
+  {
+    "index": 23,
+    "nama": "Komugi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/komugi.jpg"
+  },
+  {
+    "index": 24,
+    "nama": "Fang Daimyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fang-daimyo.jpg"
+  },
+  {
+    "index": 25,
+    "nama": "Nurari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nurari.jpg"
+  },
+  {
+    "index": 26,
+    "nama": "Dajimu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/dajimu.jpg"
+  },
+  {
+    "index": 27,
+    "nama": "Kabuto Yakushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kabuto-yakushi.jpg"
+  },
+  {
+    "index": 28,
+    "nama": "Yagura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yagura.jpg"
+  },
+  {
+    "index": 29,
+    "nama": "Migaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/migaki.jpg"
+  },
+  {
+    "index": 30,
+    "nama": "Kaori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kaori.jpg"
+  },
+  {
+    "index": 31,
+    "nama": "Waraji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/waraji.jpg"
+  },
+  {
+    "index": 32,
+    "nama": "Doushin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/doushin.jpg"
+  },
+  {
+    "index": 33,
+    "nama": "Sentoki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sentoki.jpg"
+  },
+  {
+    "index": 34,
+    "nama": "Deidara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/deidara.jpg"
+  },
+  {
+    "index": 35,
+    "nama": "Shiin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shiin.jpg"
+  },
+  {
+    "index": 36,
+    "nama": "Hikaku Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hikaku-uchiha.jpg"
+  },
+  {
+    "index": 37,
+    "nama": "Ibiki Morino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ibiki-morino.jpg"
+  },
+  {
+    "index": 38,
+    "nama": "Hisame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hisame.jpg"
+  },
+  {
+    "index": 39,
+    "nama": "Mozuku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mozuku.jpg"
+  },
+  {
+    "index": 40,
+    "nama": "Five-Tailed Dolphin Horse",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/five-tailed-dolphin-horse.jpg"
+  },
+  {
+    "index": 41,
+    "nama": "Guren (prisoner)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/guren.jpg"
+  },
+  {
+    "index": 42,
+    "nama": "Dan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/dan.jpg"
+  },
+  {
+    "index": 43,
+    "nama": "Yoshino Kaede",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yoshino-kaede.jpg"
+  },
+  {
+    "index": 44,
+    "nama": "Chibi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/chibi.jpg"
+  },
+  {
+    "index": 45,
+    "nama": "Gitai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gitai.jpg"
+  },
+  {
+    "index": 46,
+    "nama": "Miroku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/miroku.jpg"
+  },
+  {
+    "index": 47,
+    "nama": "Third Kazekage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/third-kazekage.jpg"
+  },
+  {
+    "index": 48,
+    "nama": "Wind Daimyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/wind-daimyo.jpg"
+  },
+  {
+    "index": 49,
+    "nama": "Inari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/inari.jpg"
+  },
+  {
+    "index": 50,
+    "nama": "Kujaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kujaku.jpg"
+  },
+  {
+    "index": 51,
+    "nama": "Ino Yamanaka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ino-yamanaka.jpg"
+  },
+  {
+    "index": 52,
+    "nama": "Kisame Hoshigaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kisame-hoshigaki.jpg"
+  },
+  {
+    "index": 53,
+    "nama": "Kusushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kusushi.jpg"
+  },
+  {
+    "index": 54,
+    "nama": "Nauma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nauma.jpg"
+  },
+  {
+    "index": 55,
+    "nama": "Mifune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mifune.jpg"
+  },
+  {
+    "index": 56,
+    "nama": "Senju clan ancestor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/senju-clan-ancestor.jpg"
+  },
+  {
+    "index": 57,
+    "nama": "Shabadaba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shabadaba.jpg"
+  },
+  {
+    "index": 58,
+    "nama": "Hokuto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hokuto.jpg"
+  },
+  {
+    "index": 59,
+    "nama": "Umibozu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/umibozu.jpg"
+  },
+  {
+    "index": 60,
+    "nama": "Unkai Kurama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/unkai-kurama.jpg"
+  },
+  {
+    "index": 61,
+    "nama": "Takamaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/takamaru.jpg"
+  },
+  {
+    "index": 62,
+    "nama": "Kitane",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kitane.jpg"
+  },
+  {
+    "index": 63,
+    "nama": "Ayame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ayame.jpg"
+  },
+  {
+    "index": 64,
+    "nama": "Shion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shion.jpg"
+  },
+  {
+    "index": 65,
+    "nama": "Taiseki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/taiseki.jpg"
+  },
+  {
+    "index": 66,
+    "nama": "Ichigen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ichigen.jpg"
+  },
+  {
+    "index": 67,
+    "nama": "Fukasaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fukasaku.jpg"
+  },
+  {
+    "index": 68,
+    "nama": "Yagura (anime)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yagura.jpg"
+  },
+  {
+    "index": 69,
+    "nama": "Shikuro Aburame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shikuro-aburame.jpg"
+  },
+  {
+    "index": 70,
+    "nama": "Ginji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ginji.jpg"
+  },
+  {
+    "index": 71,
+    "nama": "Hashirama Senju",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hashirama-senju.jpg"
+  },
+  {
+    "index": 72,
+    "nama": "Konan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/konan.jpg"
+  },
+  {
+    "index": 73,
+    "nama": "Giant Bee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-bee.jpg"
+  },
+  {
+    "index": 74,
+    "nama": "Naruto Uzumaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/naruto-uzumaki.jpg"
+  },
+  {
+    "index": 75,
+    "nama": "Murakumo Kurama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/murakumo-kurama.jpg"
+  },
+  {
+    "index": 76,
+    "nama": "Uchiha clan ancestor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/uchiha-clan-ancestor.jpg"
+  },
+  {
+    "index": 77,
+    "nama": "Bull",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/bull.jpg"
+  },
+  {
+    "index": 78,
+    "nama": "Demonic Statue of the Outer path",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/demonic-statue-of-the-outer-path.jpg"
+  },
+  {
+    "index": 79,
+    "nama": "Funari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/funari.jpg"
+  },
+  {
+    "index": 80,
+    "nama": "Seito",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/seito.jpg"
+  },
+  {
+    "index": 81,
+    "nama": "Gennai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gennai.jpg"
+  },
+  {
+    "index": 82,
+    "nama": "Giant Ram",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-ram.jpg"
+  },
+  {
+    "index": 83,
+    "nama": "Mubi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mubi.jpg"
+  },
+  {
+    "index": 84,
+    "nama": "Doki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/doki.jpg"
+  },
+  {
+    "index": 85,
+    "nama": "Fuku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fuku.jpg"
+  },
+  {
+    "index": 86,
+    "nama": "Midori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/midori.jpg"
+  },
+  {
+    "index": 87,
+    "nama": "Iruka Umino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/iruka-umino.jpg"
+  },
+  {
+    "index": 88,
+    "nama": "Chiriku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/chiriku.jpg"
+  },
+  {
+    "index": 89,
+    "nama": "Shiore",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shiore.jpg"
+  },
+  {
+    "index": 90,
+    "nama": "Sumire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sumire.jpg"
+  },
+  {
+    "index": 91,
+    "nama": "Cursed Warrior",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/cursed-warrior.jpg"
+  },
+  {
+    "index": 92,
+    "nama": "Fukusuke Hikyakuya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fukusuke-hikyakuya.jpg"
+  },
+  {
+    "index": 93,
+    "nama": "Benten",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/benten.jpg"
+  },
+  {
+    "index": 94,
+    "nama": "Murasame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/murasame.jpg"
+  },
+  {
+    "index": 95,
+    "nama": "Three Giant Snakes",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/three-giant-snakes.jpg"
+  },
+  {
+    "index": 96,
+    "nama": "Yui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yui.jpg"
+  },
+  {
+    "index": 97,
+    "nama": "Hakui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hakui.jpg"
+  },
+  {
+    "index": 98,
+    "nama": "Shibi Aburame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shibi-aburame.jpg"
+  },
+  {
+    "index": 99,
+    "nama": "Mizura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mizura.jpg"
+  },
+  {
+    "index": 100,
+    "nama": "Zaku Abumi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/zaku-abumi.jpg"
+  },
+  {
+    "index": 101,
+    "nama": "Fuen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fuen.jpg"
+  },
+  {
+    "index": 102,
+    "nama": "Manda",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/manda.jpg"
+  },
+  {
+    "index": 103,
+    "nama": "Fugai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fugai.jpg"
+  },
+  {
+    "index": 104,
+    "nama": "Isago",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/isago.jpg"
+  },
+  {
+    "index": 105,
+    "nama": "Jibachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/jibachi.jpg"
+  },
+  {
+    "index": 106,
+    "nama": "Matsuri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/matsuri.jpg"
+  },
+  {
+    "index": 107,
+    "nama": "Nekobaa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nekobaa.jpg"
+  },
+  {
+    "index": 108,
+    "nama": "Ibara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ibara.jpg"
+  },
+  {
+    "index": 109,
+    "nama": "Tomaru Minakura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tomaru-minakura.jpg"
+  },
+  {
+    "index": 110,
+    "nama": "Setsuna Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/setsuna-uchiha.jpg"
+  },
+  {
+    "index": 111,
+    "nama": "Hayase",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hayase.jpg"
+  },
+  {
+    "index": 112,
+    "nama": "Natori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/natori.jpg"
+  },
+  {
+    "index": 113,
+    "nama": "Hato",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hato.jpg"
+  },
+  {
+    "index": 114,
+    "nama": "Hanzaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hanzaki.jpg"
+  },
+  {
+    "index": 115,
+    "nama": "Tobio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tobio.jpg"
+  },
+  {
+    "index": 116,
+    "nama": "Kegon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kegon.jpg"
+  },
+  {
+    "index": 117,
+    "nama": "Ten-Tailed Beast",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ten-tailed-beast.jpg"
+  },
+  {
+    "index": 118,
+    "nama": "Monju",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/monju.jpg"
+  },
+  {
+    "index": 119,
+    "nama": "Shikamaru Nara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shikamaru-nara.jpg"
+  },
+  {
+    "index": 120,
+    "nama": "Ni",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ni.jpg"
+  },
+  {
+    "index": 121,
+    "nama": "Tsubusa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsubusa.jpg"
+  },
+  {
+    "index": 122,
+    "nama": "Kurobachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kurobachi.jpg"
+  },
+  {
+    "index": 123,
+    "nama": "Kuromaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kuromaru.jpg"
+  },
+  {
+    "index": 124,
+    "nama": "Mukade",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mukade.jpg"
+  },
+  {
+    "index": 125,
+    "nama": "Pochi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/pochi.jpg"
+  },
+  {
+    "index": 126,
+    "nama": "Ninkame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ninkame.jpg"
+  },
+  {
+    "index": 127,
+    "nama": "Tami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tami.jpg"
+  },
+  {
+    "index": 128,
+    "nama": "Ugatsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ugatsu.jpg"
+  },
+  {
+    "index": 129,
+    "nama": "Kasumi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kasumi.jpg"
+  },
+  {
+    "index": 130,
+    "nama": "Giant Drill-Beaked Bird",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-drill-beaked-bird.jpg"
+  },
+  {
+    "index": 131,
+    "nama": "Misumi Tsurugi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/misumi-tsurugi.jpg"
+  },
+  {
+    "index": 132,
+    "nama": "Hiruko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hiruko.jpg"
+  },
+  {
+    "index": 133,
+    "nama": "Gantetsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gantetsu.jpg"
+  },
+  {
+    "index": 134,
+    "nama": "Yotaka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yotaka.jpg"
+  },
+  {
+    "index": 135,
+    "nama": "Inabi Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/inabi-uchiha.jpg"
+  },
+  {
+    "index": 136,
+    "nama": "Sazanami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sazanami.jpg"
+  },
+  {
+    "index": 137,
+    "nama": "Emi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/emi.jpg"
+  },
+  {
+    "index": 138,
+    "nama": "Abiru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/abiru.jpg"
+  },
+  {
+    "index": 139,
+    "nama": "Inaho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/inaho.jpg"
+  },
+  {
+    "index": 140,
+    "nama": "Bando",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/bando.jpg"
+  },
+  {
+    "index": 141,
+    "nama": "Killer Bee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/killer-bee.jpg"
+  },
+  {
+    "index": 142,
+    "nama": "Nawaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nawaki.jpg"
+  },
+  {
+    "index": 143,
+    "nama": "Nerugui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nerugui.jpg"
+  },
+  {
+    "index": 144,
+    "nama": "Kuroma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kuroma.jpg"
+  },
+  {
+    "index": 145,
+    "nama": "Dengaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/dengaku.jpg"
+  },
+  {
+    "index": 146,
+    "nama": "Tamaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tamaki.jpg"
+  },
+  {
+    "index": 147,
+    "nama": "Teyaki Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/teyaki-uchiha.jpg"
+  },
+  {
+    "index": 148,
+    "nama": "Korega",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/korega.jpg"
+  },
+  {
+    "index": 149,
+    "nama": "Uroko Kurama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/uroko-kurama.jpg"
+  },
+  {
+    "index": 150,
+    "nama": "Genmai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/genmai.jpg"
+  },
+  {
+    "index": 151,
+    "nama": "Ya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ya.jpg"
+  },
+  {
+    "index": 152,
+    "nama": "Hina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hina.jpg"
+  },
+  {
+    "index": 153,
+    "nama": "Todoroki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/todoroki.jpg"
+  },
+  {
+    "index": 154,
+    "nama": "Giichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giichi.jpg"
+  },
+  {
+    "index": 155,
+    "nama": "Asuma Sarutobi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/asuma-sarutobi.jpg"
+  },
+  {
+    "index": 156,
+    "nama": "Kiki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kiki.jpg"
+  },
+  {
+    "index": 157,
+    "nama": "Agari Kaisen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/agari-kaisen.jpg"
+  },
+  {
+    "index": 158,
+    "nama": "Zero-Tailed Masked Leech",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/zero-tailed-masked-leech.jpg"
+  },
+  {
+    "index": 159,
+    "nama": "Darui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/darui.jpg"
+  },
+  {
+    "index": 160,
+    "nama": "Seimei",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/seimei.jpg"
+  },
+  {
+    "index": 161,
+    "nama": "Seven-Tailed Horned Beetle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/seven-tailed-horned-beetle.jpg"
+  },
+  {
+    "index": 162,
+    "nama": "Kohada",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kohada.jpg"
+  },
+  {
+    "index": 163,
+    "nama": "Sumashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sumashi.jpg"
+  },
+  {
+    "index": 164,
+    "nama": "Might Guy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/might-guy.jpg"
+  },
+  {
+    "index": 165,
+    "nama": "Midare",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/midare.jpg"
+  },
+  {
+    "index": 166,
+    "nama": "Three-Tailed Giant Turtle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/three-tailed-giant-turtle.jpg"
+  },
+  {
+    "index": 167,
+    "nama": "Utakata",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/utakata.jpg"
+  },
+  {
+    "index": 168,
+    "nama": "One-Tailed Shukaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/one-tailed-shukaku.jpg"
+  },
+  {
+    "index": 169,
+    "nama": "Towa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/towa.jpg"
+  },
+  {
+    "index": 170,
+    "nama": "Gamariki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gamariki.jpg"
+  },
+  {
+    "index": 171,
+    "nama": "Fugaku Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fugaku-uchiha.jpg"
+  },
+  {
+    "index": 172,
+    "nama": "Homura Mitokado",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/homura-mitokado.jpg"
+  },
+  {
+    "index": 173,
+    "nama": "Awakened Hinata",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/awakened-hinata.jpg"
+  },
+  {
+    "index": 174,
+    "nama": "Nae",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nae.jpg"
+  },
+  {
+    "index": 175,
+    "nama": "Harusame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/harusame.jpg"
+  },
+  {
+    "index": 176,
+    "nama": "Kahiko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kahiko.jpg"
+  },
+  {
+    "index": 177,
+    "nama": "Baki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/baki.jpg"
+  },
+  {
+    "index": 178,
+    "nama": "Akio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akio.jpg"
+  },
+  {
+    "index": 179,
+    "nama": "J",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/j.jpg"
+  },
+  {
+    "index": 180,
+    "nama": "Gantetsu (Rock)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gantetsu.jpg"
+  },
+  {
+    "index": 181,
+    "nama": "Bakuto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/bakuto.jpg"
+  },
+  {
+    "index": 182,
+    "nama": "Akino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akino.jpg"
+  },
+  {
+    "index": 183,
+    "nama": "Konohamaru Sarutobi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/konohamaru-sarutobi.jpg"
+  },
+  {
+    "index": 184,
+    "nama": "Sora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sora.jpg"
+  },
+  {
+    "index": 185,
+    "nama": "Kaiza",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kaiza.jpg"
+  },
+  {
+    "index": 186,
+    "nama": "Yamato",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yamato.jpg"
+  },
+  {
+    "index": 187,
+    "nama": "Kagari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kagari.jpg"
+  },
+  {
+    "index": 188,
+    "nama": "Inomatsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/inomatsu.jpg"
+  },
+  {
+    "index": 189,
+    "nama": "Tezuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tezuna.jpg"
+  },
+  {
+    "index": 190,
+    "nama": "Denka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/denka.jpg"
+  },
+  {
+    "index": 191,
+    "nama": "Kaji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kaji.jpg"
+  },
+  {
+    "index": 192,
+    "nama": "Nobori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nobori.jpg"
+  },
+  {
+    "index": 193,
+    "nama": "Tonton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tonton.jpg"
+  },
+  {
+    "index": 194,
+    "nama": "Mizuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mizuki.jpg"
+  },
+  {
+    "index": 195,
+    "nama": "Shin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shin.jpg"
+  },
+  {
+    "index": 196,
+    "nama": "Chamu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/chamu.jpg"
+  },
+  {
+    "index": 197,
+    "nama": "Sai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sai.jpg"
+  },
+  {
+    "index": 198,
+    "nama": "Sajin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sajin.jpg"
+  },
+  {
+    "index": 199,
+    "nama": "Yugito Nii",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yugito-nii.jpg"
+  },
+  {
+    "index": 200,
+    "nama": "Gōzu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gozu.jpg"
+  },
+  {
+    "index": 201,
+    "nama": "Temari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/temari.jpg"
+  },
+  {
+    "index": 202,
+    "nama": "San",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/san.jpg"
+  },
+  {
+    "index": 203,
+    "nama": "Ahiko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ahiko.jpg"
+  },
+  {
+    "index": 204,
+    "nama": "Oyone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/oyone.jpg"
+  },
+  {
+    "index": 205,
+    "nama": "Yurika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yurika.jpg"
+  },
+  {
+    "index": 206,
+    "nama": "First Tsuchikage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/first-tsuchikage.jpg"
+  },
+  {
+    "index": 207,
+    "nama": "Amachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/amachi.jpg"
+  },
+  {
+    "index": 208,
+    "nama": "Katsuyu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/katsuyu.jpg"
+  },
+  {
+    "index": 209,
+    "nama": "Tenzen Daikoku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tenzen-daikoku.jpg"
+  },
+  {
+    "index": 210,
+    "nama": "Fourth Kazekage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fourth-kazekage.jpg"
+  },
+  {
+    "index": 211,
+    "nama": "Otora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/otora.jpg"
+  },
+  {
+    "index": 212,
+    "nama": "Karin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/karin.jpg"
+  },
+  {
+    "index": 213,
+    "nama": "Suzumebachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/suzumebachi.jpg"
+  },
+  {
+    "index": 214,
+    "nama": "Toki (Shinobazu)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/toki.jpg"
+  },
+  {
+    "index": 215,
+    "nama": "Teuchi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/teuchi.jpg"
+  },
+  {
+    "index": 216,
+    "nama": "Madara Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/madara-uchiha.jpg"
+  },
+  {
+    "index": 217,
+    "nama": "Nishi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nishi.jpg"
+  },
+  {
+    "index": 218,
+    "nama": "Haku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/haku.jpg"
+  },
+  {
+    "index": 219,
+    "nama": "Karui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/karui.jpg"
+  },
+  {
+    "index": 220,
+    "nama": "Chiyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/chiyo.jpg"
+  },
+  {
+    "index": 221,
+    "nama": "Hakkaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hakkaku.jpg"
+  },
+  {
+    "index": 222,
+    "nama": "Minoji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/minoji.jpg"
+  },
+  {
+    "index": 223,
+    "nama": "Kagami Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kagami-uchiha.jpg"
+  },
+  {
+    "index": 224,
+    "nama": "Otokaze",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/otokaze.jpg"
+  },
+  {
+    "index": 225,
+    "nama": "Susuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/susuki.jpg"
+  },
+  {
+    "index": 226,
+    "nama": "Kaguya clan Patriarch",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kaguya-clan-patriarch.jpg"
+  },
+  {
+    "index": 227,
+    "nama": "Sekka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sekka.jpg"
+  },
+  {
+    "index": 228,
+    "nama": "Shimeji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shimeji.jpg"
+  },
+  {
+    "index": 229,
+    "nama": "Buna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/buna.jpg"
+  },
+  {
+    "index": 230,
+    "nama": "Kirisame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kirisame.jpg"
+  },
+  {
+    "index": 231,
+    "nama": "Baiu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/baiu.jpg"
+  },
+  {
+    "index": 232,
+    "nama": "Ushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ushi.jpg"
+  },
+  {
+    "index": 233,
+    "nama": "Yakumo Kurama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yakumo-kurama.jpg"
+  },
+  {
+    "index": 234,
+    "nama": "Ruiga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ruiga.jpg"
+  },
+  {
+    "index": 235,
+    "nama": "Kazuma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kazuma.jpg"
+  },
+  {
+    "index": 236,
+    "nama": "Mo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mo.jpg"
+  },
+  {
+    "index": 237,
+    "nama": "Arashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/arashi.jpg"
+  },
+  {
+    "index": 238,
+    "nama": "Hotarubi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hotarubi.jpg"
+  },
+  {
+    "index": 239,
+    "nama": "Akaboshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akaboshi.jpg"
+  },
+  {
+    "index": 240,
+    "nama": "Ponta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ponta.jpg"
+  },
+  {
+    "index": 241,
+    "nama": "Tenten",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tenten.jpg"
+  },
+  {
+    "index": 242,
+    "nama": "Shibuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shibuki.jpg"
+  },
+  {
+    "index": 243,
+    "nama": "Iwashi Tatami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/iwashi-tatami.jpg"
+  },
+  {
+    "index": 244,
+    "nama": "Sasuke Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sasuke-uchiha.jpg"
+  },
+  {
+    "index": 245,
+    "nama": "Eight-Tailed Giant Ox",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/eight-tailed-giant-ox.jpg"
+  },
+  {
+    "index": 246,
+    "nama": "Haruna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/haruna.jpg"
+  },
+  {
+    "index": 247,
+    "nama": "Idate Morino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/idate-morino.jpg"
+  },
+  {
+    "index": 248,
+    "nama": "Shikaku Nara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shikaku-nara.jpg"
+  },
+  {
+    "index": 249,
+    "nama": "Kajika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kajika.jpg"
+  },
+  {
+    "index": 250,
+    "nama": "Giant Crustacean",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-crustacean.jpg"
+  },
+  {
+    "index": 251,
+    "nama": "Tatsuji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tatsuji.jpg"
+  },
+  {
+    "index": 252,
+    "nama": "Kiba Inuzuka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kiba-inuzuka.jpg"
+  },
+  {
+    "index": 253,
+    "nama": "Tsuchino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsuchino.jpg"
+  },
+  {
+    "index": 254,
+    "nama": "Riichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/riichi.jpg"
+  },
+  {
+    "index": 255,
+    "nama": "Kagura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kagura.jpg"
+  },
+  {
+    "index": 256,
+    "nama": "Han",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/han.jpg"
+  },
+  {
+    "index": 257,
+    "nama": "Gaara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gaara.jpg"
+  },
+  {
+    "index": 258,
+    "nama": "Omoi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/omoi.jpg"
+  },
+  {
+    "index": 259,
+    "nama": "Jigumo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/jigumo.jpg"
+  },
+  {
+    "index": 260,
+    "nama": "Amayo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/amayo.jpg"
+  },
+  {
+    "index": 261,
+    "nama": "Kin Tsuchi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kin-tsuchi.jpg"
+  },
+  {
+    "index": 262,
+    "nama": "Suzume",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/suzume.jpg"
+  },
+  {
+    "index": 263,
+    "nama": "Tsukushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsukushi.jpg"
+  },
+  {
+    "index": 264,
+    "nama": "Shizuku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shizuku.jpg"
+  },
+  {
+    "index": 265,
+    "nama": "Haido",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/haido.jpg"
+  },
+  {
+    "index": 266,
+    "nama": "Kakashi Hatake",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kakashi-hatake.jpg"
+  },
+  {
+    "index": 267,
+    "nama": "Karenbana",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/karenbana.jpg"
+  },
+  {
+    "index": 268,
+    "nama": "Unnamed Akimichi member",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/unnamed-akimichi-member.jpg"
+  },
+  {
+    "index": 269,
+    "nama": "Spirit Beast",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/spirit-beast.jpg"
+  },
+  {
+    "index": 270,
+    "nama": "Zangei",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/zangei.jpg"
+  },
+  {
+    "index": 271,
+    "nama": "Sasori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sasori.jpg"
+  },
+  {
+    "index": 272,
+    "nama": "Samui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/samui.jpg"
+  },
+  {
+    "index": 273,
+    "nama": "Izumo Kamizuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/izumo-kamizuki.jpg"
+  },
+  {
+    "index": 274,
+    "nama": "Genma Shiranui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/genma-shiranui.jpg"
+  },
+  {
+    "index": 275,
+    "nama": "Karashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/karashi.jpg"
+  },
+  {
+    "index": 276,
+    "nama": "Hidan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hidan.jpg"
+  },
+  {
+    "index": 277,
+    "nama": "Nagato",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nagato.jpg"
+  },
+  {
+    "index": 278,
+    "nama": "Gosunkugi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gosunkugi.jpg"
+  },
+  {
+    "index": 279,
+    "nama": "Tobirama Senju",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tobirama-senju.jpg"
+  },
+  {
+    "index": 280,
+    "nama": "Karura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/karura.jpg"
+  },
+  {
+    "index": 281,
+    "nama": "Setsuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/setsuna.jpg"
+  },
+  {
+    "index": 282,
+    "nama": "Giant Rhino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-rhino.jpg"
+  },
+  {
+    "index": 283,
+    "nama": "Dosu Kinuta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/dosu-kinuta.jpg"
+  },
+  {
+    "index": 284,
+    "nama": "Rin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/rin.jpg"
+  },
+  {
+    "index": 285,
+    "nama": "Guruko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/guruko.jpg"
+  },
+  {
+    "index": 286,
+    "nama": "Tea Daimyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tea-daimyo.jpg"
+  },
+  {
+    "index": 287,
+    "nama": "Izuna Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/izuna-uchiha.jpg"
+  },
+  {
+    "index": 288,
+    "nama": "Kotetsu Hagane",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kotetsu-hagane.jpg"
+  },
+  {
+    "index": 289,
+    "nama": "Hamaki Mimura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hamaki-mimura.jpg"
+  },
+  {
+    "index": 290,
+    "nama": "Rinji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/rinji.jpg"
+  },
+  {
+    "index": 291,
+    "nama": "Three Haimaru Brothers",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/three-haimaru-brothers.jpg"
+  },
+  {
+    "index": 292,
+    "nama": "Kakuzu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kakuzu.jpg"
+  },
+  {
+    "index": 293,
+    "nama": "Shiba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shiba.jpg"
+  },
+  {
+    "index": 294,
+    "nama": "Itachi Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/itachi-uchiha.jpg"
+  },
+  {
+    "index": 295,
+    "nama": "Giant Snake-Tailed Chameleon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-snake-tailed-chameleon.jpg"
+  },
+  {
+    "index": 296,
+    "nama": "Yashiro Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yashiro-uchiha.jpg"
+  },
+  {
+    "index": 297,
+    "nama": "Susuki (Land of Demons)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/susuki.jpg"
+  },
+  {
+    "index": 298,
+    "nama": "Toki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/toki.jpg"
+  },
+  {
+    "index": 299,
+    "nama": "Kurotsuchi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kurotsuchi.jpg"
+  },
+  {
+    "index": 300,
+    "nama": "Shinta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shinta.jpg"
+  },
+  {
+    "index": 301,
+    "nama": "Giant Centipede",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-centipede.jpg"
+  },
+  {
+    "index": 302,
+    "nama": "Koharu Utatane",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/koharu-utatane.jpg"
+  },
+  {
+    "index": 303,
+    "nama": "Two-Tailed Monster Cat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/two-tailed-monster-cat.jpg"
+  },
+  {
+    "index": 304,
+    "nama": "Nine-Tailed Demon Fox",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nine-tailed-demon-fox.jpg"
+  },
+  {
+    "index": 305,
+    "nama": "Shima",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shima.jpg"
+  },
+  {
+    "index": 306,
+    "nama": "Urushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/urushi.jpg"
+  },
+  {
+    "index": 307,
+    "nama": "Kusuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kusuna.jpg"
+  },
+  {
+    "index": 308,
+    "nama": "Claw Daimyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/claw-daimyo.jpg"
+  },
+  {
+    "index": 309,
+    "nama": "Gamaken",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gamaken.jpg"
+  },
+  {
+    "index": 310,
+    "nama": "Teguse",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/teguse.jpg"
+  },
+  {
+    "index": 311,
+    "nama": "Hiruzen Sarutobi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hiruzen-sarutobi.jpg"
+  },
+  {
+    "index": 312,
+    "nama": "Sumaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sumaru.jpg"
+  },
+  {
+    "index": 313,
+    "nama": "Hokushin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hokushin.jpg"
+  },
+  {
+    "index": 314,
+    "nama": "Mitate",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mitate.jpg"
+  },
+  {
+    "index": 315,
+    "nama": "Gamatatsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gamatatsu.jpg"
+  },
+  {
+    "index": 316,
+    "nama": "Tazuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tazuna.jpg"
+  },
+  {
+    "index": 317,
+    "nama": "Akamaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akamaru.jpg"
+  },
+  {
+    "index": 318,
+    "nama": "Tsuba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsuba.jpg"
+  },
+  {
+    "index": 319,
+    "nama": "Head Ninja of Kumogakure",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/head-ninja-of-kumogakure.jpg"
+  },
+  {
+    "index": 320,
+    "nama": "Mizore Fuyukuma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mizore-fuyukuma.jpg"
+  },
+  {
+    "index": 321,
+    "nama": "Kushina Uzumaki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kushina-uzumaki.jpg"
+  },
+  {
+    "index": 322,
+    "nama": "Yoshino Nara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yoshino-nara.jpg"
+  },
+  {
+    "index": 323,
+    "nama": "Aniki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/aniki.jpg"
+  },
+  {
+    "index": 324,
+    "nama": "Okisuke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/okisuke.jpg"
+  },
+  {
+    "index": 325,
+    "nama": "Reki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/reki.jpg"
+  },
+  {
+    "index": 326,
+    "nama": "Tekka Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tekka-uchiha.jpg"
+  },
+  {
+    "index": 327,
+    "nama": "Meizu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/meizu.jpg"
+  },
+  {
+    "index": 328,
+    "nama": "Gatsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gatsu.jpg"
+  },
+  {
+    "index": 329,
+    "nama": "Yakumi Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yakumi-uchiha.jpg"
+  },
+  {
+    "index": 330,
+    "nama": "Bansai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/bansai.jpg"
+  },
+  {
+    "index": 331,
+    "nama": "Nagare",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nagare.jpg"
+  },
+  {
+    "index": 332,
+    "nama": "Otoha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/otoha.jpg"
+  },
+  {
+    "index": 333,
+    "nama": "Shinobu Mibu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shinobu-mibu.jpg"
+  },
+  {
+    "index": 334,
+    "nama": "Koji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/koji.jpg"
+  },
+  {
+    "index": 335,
+    "nama": "Temujin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/temujin.jpg"
+  },
+  {
+    "index": 336,
+    "nama": "Kusabi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kusabi.jpg"
+  },
+  {
+    "index": 337,
+    "nama": "Yashamaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yashamaru.jpg"
+  },
+  {
+    "index": 338,
+    "nama": "Unnamed Daimyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/unnamed-daimyo.jpg"
+  },
+  {
+    "index": 339,
+    "nama": "Taruho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/taruho.jpg"
+  },
+  {
+    "index": 340,
+    "nama": "Black Shadow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/black-shadow.jpg"
+  },
+  {
+    "index": 341,
+    "nama": "Kazabune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kazabune.jpg"
+  },
+  {
+    "index": 342,
+    "nama": "Shisui Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shisui-uchiha.jpg"
+  },
+  {
+    "index": 343,
+    "nama": "Terai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/terai.jpg"
+  },
+  {
+    "index": 344,
+    "nama": "Mogusa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mogusa.jpg"
+  },
+  {
+    "index": 345,
+    "nama": "Sakumo Hatake",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sakumo-hatake.jpg"
+  },
+  {
+    "index": 346,
+    "nama": "Daichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/daichi.jpg"
+  },
+  {
+    "index": 347,
+    "nama": "Sakon and Ukon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sakon-and-ukon.jpg"
+  },
+  {
+    "index": 348,
+    "nama": "Gama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gama.jpg"
+  },
+  {
+    "index": 349,
+    "nama": "Shimon Hijiri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shimon-hijiri.jpg"
+  },
+  {
+    "index": 350,
+    "nama": "Kunijiro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kunijiro.jpg"
+  },
+  {
+    "index": 351,
+    "nama": "Shiranami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shiranami.jpg"
+  },
+  {
+    "index": 352,
+    "nama": "Satetsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/satetsu.jpg"
+  },
+  {
+    "index": 353,
+    "nama": "Iwana Akame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/iwana-akame.jpg"
+  },
+  {
+    "index": 354,
+    "nama": "Michiru Tsuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/michiru-tsuki.jpg"
+  },
+  {
+    "index": 355,
+    "nama": "Kakeru Tsuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kakeru-tsuki.jpg"
+  },
+  {
+    "index": 356,
+    "nama": "Uruchi Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/uruchi-uchiha.jpg"
+  },
+  {
+    "index": 357,
+    "nama": "Tsurugi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsurugi.jpg"
+  },
+  {
+    "index": 358,
+    "nama": "Sari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sari.jpg"
+  },
+  {
+    "index": 359,
+    "nama": "Amaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/amaru.jpg"
+  },
+  {
+    "index": 360,
+    "nama": "Kumade Toriichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kumade-toriichi.jpg"
+  },
+  {
+    "index": 361,
+    "nama": "Ageha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ageha.jpg"
+  },
+  {
+    "index": 362,
+    "nama": "Giant Bird",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-bird.jpg"
+  },
+  {
+    "index": 363,
+    "nama": "Yajirobee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yajirobee.jpg"
+  },
+  {
+    "index": 364,
+    "nama": "Giant Panda",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-panda.jpg"
+  },
+  {
+    "index": 365,
+    "nama": "Kigiri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kigiri.jpg"
+  },
+  {
+    "index": 366,
+    "nama": "Madam Shijimi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/madam-shijimi.jpg"
+  },
+  {
+    "index": 367,
+    "nama": "Menma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/menma.jpg"
+  },
+  {
+    "index": 368,
+    "nama": "Ichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ichi.jpg"
+  },
+  {
+    "index": 369,
+    "nama": "Sukima",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sukima.jpg"
+  },
+  {
+    "index": 370,
+    "nama": "Tetsuru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tetsuru.jpg"
+  },
+  {
+    "index": 371,
+    "nama": "Sabu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sabu.jpg"
+  },
+  {
+    "index": 372,
+    "nama": "Iashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/iashi.jpg"
+  },
+  {
+    "index": 373,
+    "nama": "First Hoshikage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/first-hoshikage.jpg"
+  },
+  {
+    "index": 374,
+    "nama": "Shigure",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shigure.jpg"
+  },
+  {
+    "index": 375,
+    "nama": "Messenger Lizard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/messenger-lizard.jpg"
+  },
+  {
+    "index": 376,
+    "nama": "Monzaemon Chikamatsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/monzaemon-chikamatsu.jpg"
+  },
+  {
+    "index": 377,
+    "nama": "Natsuhi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/natsuhi.jpg"
+  },
+  {
+    "index": 378,
+    "nama": "Orochimaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/orochimaru.jpg"
+  },
+  {
+    "index": 379,
+    "nama": "Tera",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tera.jpg"
+  },
+  {
+    "index": 380,
+    "nama": "Great Toad Sage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/great-toad-sage.jpg"
+  },
+  {
+    "index": 381,
+    "nama": "Fuki (Land of Sound)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fuki.jpg"
+  },
+  {
+    "index": 382,
+    "nama": "Senta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/senta.jpg"
+  },
+  {
+    "index": 383,
+    "nama": "Yahiko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yahiko.jpg"
+  },
+  {
+    "index": 384,
+    "nama": "Urakaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/urakaku.jpg"
+  },
+  {
+    "index": 385,
+    "nama": "Bisuke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/bisuke.jpg"
+  },
+  {
+    "index": 386,
+    "nama": "Komachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/komachi.jpg"
+  },
+  {
+    "index": 387,
+    "nama": "Kamatari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kamatari.jpg"
+  },
+  {
+    "index": 388,
+    "nama": "Gamakichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gamakichi.jpg"
+  },
+  {
+    "index": 389,
+    "nama": "Momiji (Tanzaku)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/momiji.jpg"
+  },
+  {
+    "index": 390,
+    "nama": "Chishima",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/chishima.jpg"
+  },
+  {
+    "index": 391,
+    "nama": "Gerotora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gerotora.jpg"
+  },
+  {
+    "index": 392,
+    "nama": "Rikumaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/rikumaru.jpg"
+  },
+  {
+    "index": 393,
+    "nama": "Rock Lee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/rock-lee.jpg"
+  },
+  {
+    "index": 394,
+    "nama": "Fujin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fujin.jpg"
+  },
+  {
+    "index": 395,
+    "nama": "Shiho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shiho.jpg"
+  },
+  {
+    "index": 396,
+    "nama": "Hiruko (missing-nin)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hiruko.jpg"
+  },
+  {
+    "index": 397,
+    "nama": "Raiga Kurosuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/raiga-kurosuki.jpg"
+  },
+  {
+    "index": 398,
+    "nama": "Renga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/renga.jpg"
+  },
+  {
+    "index": 399,
+    "nama": "Ittetsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ittetsu.jpg"
+  },
+  {
+    "index": 400,
+    "nama": "Sagi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sagi.jpg"
+  },
+  {
+    "index": 401,
+    "nama": "Akatsuchi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akatsuchi.jpg"
+  },
+  {
+    "index": 402,
+    "nama": "Kyoya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kyoya.jpg"
+  },
+  {
+    "index": 403,
+    "nama": "Zabuza Momochi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/zabuza-momochi.jpg"
+  },
+  {
+    "index": 404,
+    "nama": "Tsunade",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsunade.jpg"
+  },
+  {
+    "index": 405,
+    "nama": "Tsunami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsunami.jpg"
+  },
+  {
+    "index": 406,
+    "nama": "Tonbo Tobitake",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tonbo-tobitake.jpg"
+  },
+  {
+    "index": 407,
+    "nama": "Gozu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gozu.jpg"
+  },
+  {
+    "index": 408,
+    "nama": "Ebisu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ebisu.jpg"
+  },
+  {
+    "index": 409,
+    "nama": "Six-Tailed Slug",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/six-tailed-slug.jpg"
+  },
+  {
+    "index": 410,
+    "nama": "Komaza",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/komaza.jpg"
+  },
+  {
+    "index": 411,
+    "nama": "Gamabunta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/gamabunta.jpg"
+  },
+  {
+    "index": 412,
+    "nama": "Shinga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shinga.jpg"
+  },
+  {
+    "index": 413,
+    "nama": "Oboro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/oboro.jpg"
+  },
+  {
+    "index": 414,
+    "nama": "Yomi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/yomi.jpg"
+  },
+  {
+    "index": 415,
+    "nama": "Isaribi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/isaribi.jpg"
+  },
+  {
+    "index": 416,
+    "nama": "Suien",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/suien.jpg"
+  },
+  {
+    "index": 417,
+    "nama": "Raijin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/raijin.jpg"
+  },
+  {
+    "index": 418,
+    "nama": "Matsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/matsu.jpg"
+  },
+  {
+    "index": 419,
+    "nama": "Fuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fuki.jpg"
+  },
+  {
+    "index": 420,
+    "nama": "Hibari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/hibari.jpg"
+  },
+  {
+    "index": 421,
+    "nama": "Jiraiya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/jiraiya.jpg"
+  },
+  {
+    "index": 422,
+    "nama": "Jimei",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/jimei.jpg"
+  },
+  {
+    "index": 423,
+    "nama": "Daikoku Funeno",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/daikoku-funeno.jpg"
+  },
+  {
+    "index": 424,
+    "nama": "Sage of the Six Paths",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sage-of-the-six-paths.jpg"
+  },
+  {
+    "index": 425,
+    "nama": "Agari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/agari.jpg"
+  },
+  {
+    "index": 426,
+    "nama": "Tomari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tomari.jpg"
+  },
+  {
+    "index": 427,
+    "nama": "Zenza",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/zenza.jpg"
+  },
+  {
+    "index": 428,
+    "nama": "Suiko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/suiko.jpg"
+  },
+  {
+    "index": 429,
+    "nama": "Mikoto Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mikoto-uchiha.jpg"
+  },
+  {
+    "index": 430,
+    "nama": "Ibushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ibushi.jpg"
+  },
+  {
+    "index": 431,
+    "nama": "Kamina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kamina.jpg"
+  },
+  {
+    "index": 432,
+    "nama": "Torune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/torune.jpg"
+  },
+  {
+    "index": 433,
+    "nama": "Shibire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shibire.jpg"
+  },
+  {
+    "index": 434,
+    "nama": "Sasame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sasame.jpg"
+  },
+  {
+    "index": 435,
+    "nama": "Udon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/udon.jpg"
+  },
+  {
+    "index": 436,
+    "nama": "Giant Multi-Headed Dog",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/giant-multi-headed-dog.jpg"
+  },
+  {
+    "index": 437,
+    "nama": "Ugai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ugai.jpg"
+  },
+  {
+    "index": 438,
+    "nama": "Moegi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/moegi.jpg"
+  },
+  {
+    "index": 439,
+    "nama": "Kusuma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kusuma.jpg"
+  },
+  {
+    "index": 440,
+    "nama": "Ranmaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ranmaru.jpg"
+  },
+  {
+    "index": 441,
+    "nama": "Zetsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/zetsu.jpg"
+  },
+  {
+    "index": 442,
+    "nama": "Mahiru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mahiru.jpg"
+  },
+  {
+    "index": 443,
+    "nama": "Suname",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/suname.jpg"
+  },
+  {
+    "index": 444,
+    "nama": "Shura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shura.jpg"
+  },
+  {
+    "index": 445,
+    "nama": "Minato Namikaze",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/minato-namikaze.jpg"
+  },
+  {
+    "index": 446,
+    "nama": "Kiyomu Fukuda",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kiyomu-fukuda.jpg"
+  },
+  {
+    "index": 447,
+    "nama": "Matsuri (Konoha)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/matsuri.jpg"
+  },
+  {
+    "index": 448,
+    "nama": "Ami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ami.jpg"
+  },
+  {
+    "index": 449,
+    "nama": "Mondai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/mondai.jpg"
+  },
+  {
+    "index": 450,
+    "nama": "Tsuzumi Sarugaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsuzumi-sarugaku.jpg"
+  },
+  {
+    "index": 451,
+    "nama": "Torifu Akimichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/torifu-akimichi.jpg"
+  },
+  {
+    "index": 452,
+    "nama": "Tsukino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tsukino.jpg"
+  },
+  {
+    "index": 453,
+    "nama": "Guren",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/guren.jpg"
+  },
+  {
+    "index": 454,
+    "nama": "Takishi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/takishi.jpg"
+  },
+  {
+    "index": 455,
+    "nama": "Shino Aburame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shino-aburame.jpg"
+  },
+  {
+    "index": 456,
+    "nama": "Tayuya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/tayuya.jpg"
+  },
+  {
+    "index": 457,
+    "nama": "Four-Tailed Monkey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/four-tailed-monkey.jpg"
+  },
+  {
+    "index": 458,
+    "nama": "Jiga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/jiga.jpg"
+  },
+  {
+    "index": 459,
+    "nama": "Kunihisa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kunihisa.jpg"
+  },
+  {
+    "index": 460,
+    "nama": "Ao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/ao.jpg"
+  },
+  {
+    "index": 461,
+    "nama": "Futaba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/futaba.jpg"
+  },
+  {
+    "index": 462,
+    "nama": "Akane",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akane.jpg"
+  },
+  {
+    "index": 463,
+    "nama": "Sakura Haruno",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/sakura-haruno.jpg"
+  },
+  {
+    "index": 464,
+    "nama": "Fubuki Kakuyoku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/fubuki-kakuyoku.jpg"
+  },
+  {
+    "index": 465,
+    "nama": "Koyuki Kazahana",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/koyuki-kazahana.jpg"
+  },
+  {
+    "index": 466,
+    "nama": "Shizune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/shizune.jpg"
+  },
+  {
+    "index": 467,
+    "nama": "Aoba Yamashiro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/aoba-yamashiro.jpg"
+  },
+  {
+    "index": 468,
+    "nama": "Third Hoshikage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/third-hoshikage.jpg"
+  },
+  {
+    "index": 469,
+    "nama": "Nejiri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/nejiri.jpg"
+  },
+  {
+    "index": 470,
+    "nama": "Obito Uchiha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/obito-uchiha.jpg"
+  },
+  {
+    "index": 471,
+    "nama": "Kyodaigumo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/kyodaigumo.jpg"
+  },
+  {
+    "index": 472,
+    "nama": "Goshiki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/goshiki.jpg"
+  },
+  {
+    "index": 473,
+    "nama": "Akahoshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/naruto/akahoshi.jpg"
+  },
+  {
+    "index": 474,
+    "nama": "Kisame Hoshigaki",
+    "url": "data_akatsuki/kisame-hoshigaki.jpg"
+  },
+  {
+    "index": 474,
+    "nama": "Kabuto",
+    "url": "data_akatsuki/kabuto.jpg"
+  },
+  {
+    "index": 475,
+    "nama": "Kakuzu",
+    "url": "data_akatsuki/kakuzu.jpg"
+  },
+  {
+    "index": 476,
+    "nama": "Yahiko",
+    "url": "data_akatsuki/yahiko.jpg"
+  },
+  {
+    "index": 477,
+    "nama": "Deidara",
+    "url": "data_akatsuki/deidara.jpg"
+  },
+  {
+    "index": 478,
+    "nama": "Zetsu",
+    "url": "data_akatsuki/zetsu.jpg"
+  },
+  {
+    "index": 479,
+    "nama": "Itachi Uchiha",
+    "url": "data_akatsuki/itachi-uchiha.jpg"
+  },
+  {
+    "index": 479,
+    "nama": "Jugo",
+    "url": "data_akatsuki/jugo.jpg"
+  },
+  {
+    "index": 480,
+    "nama": "Obito Uchiha",
+    "url": "data_akatsuki/obito-uchiha.jpg"
+  },
+  {
+    "index": 481,
+    "nama": "Karin",
+    "url": "data_akatsuki/karin.jpg"
+  },
+  {
+    "index": 481,
+    "nama": "Pain",
+    "url": "data_akatsuki/pain.jpg"
+  },
+  {
+    "index": 482,
+    "nama": "Konan",
+    "url": "data_akatsuki/konan.jpg"
+  },
+  {
+    "index": 483,
+    "nama": "Sasori",
+    "url": "data_akatsuki/sasori.jpg"
+  },
+  {
+    "index": 484,
+    "nama": "Orochimaru",
+    "url": "data_akatsuki/orochimaru.jpg"
+  },
+  {
+    "index": 485,
+    "nama": "Sasuke Uchiha",
+    "url": "data_akatsuki/sasuke-uchiha.jpg"
+  },
+  {
+    "index": 486,
+    "nama": "Suigetsu Hozuki",
+    "url": "data_akatsuki/suigetsu-hozuki.jpg"
+  },
+  {
+    "index": 487,
+    "nama": "Hidan",
+    "url": "data_akatsuki/hidan.jpg"
+  }
+]
