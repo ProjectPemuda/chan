@@ -1,0 +1,4012 @@
+[
+  {
+    "index": 1,
+    "nama": "Dewgong",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondewgong.jpg"
+  },
+  {
+    "index": 2,
+    "nama": "Shiftry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshiftry.jpg"
+  },
+  {
+    "index": 3,
+    "nama": "Bagon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbagon.jpg"
+  },
+  {
+    "index": 4,
+    "nama": "Cacturne",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncacturne.jpg"
+  },
+  {
+    "index": 5,
+    "nama": "Lunala",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlunala.jpg"
+  },
+  {
+    "index": 6,
+    "nama": "Paras",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonparas.jpg"
+  },
+  {
+    "index": 7,
+    "nama": "Taillow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontaillow.jpg"
+  },
+  {
+    "index": 8,
+    "nama": "Shuppet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshuppet.jpg"
+  },
+  {
+    "index": 9,
+    "nama": "Accelgor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaccelgor.jpg"
+  },
+  {
+    "index": 10,
+    "nama": "Hippopotas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhippopotas.jpg"
+  },
+  {
+    "index": 11,
+    "nama": "Poipole",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpoipole.jpg"
+  },
+  {
+    "index": 12,
+    "nama": "Torchic",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontorchic.jpg"
+  },
+  {
+    "index": 13,
+    "nama": "Poliwag",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpoliwag.jpg"
+  },
+  {
+    "index": 14,
+    "nama": "Braixen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbraixen.jpg"
+  },
+  {
+    "index": 15,
+    "nama": "Ariados",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonariados.jpg"
+  },
+  {
+    "index": 16,
+    "nama": "Riolu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonriolu.jpg"
+  },
+  {
+    "index": 17,
+    "nama": "Buizel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbuizel.jpg"
+  },
+  {
+    "index": 18,
+    "nama": "Muk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmuk.jpg"
+  },
+  {
+    "index": 19,
+    "nama": "Binacle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbinacle.jpg"
+  },
+  {
+    "index": 20,
+    "nama": "Frogadier",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfrogadier.jpg"
+  },
+  {
+    "index": 21,
+    "nama": "Petilil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpetilil.jpg"
+  },
+  {
+    "index": 22,
+    "nama": "Venomoth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvenomoth.jpg"
+  },
+  {
+    "index": 23,
+    "nama": "Wartortle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwartortle.jpg"
+  },
+  {
+    "index": 24,
+    "nama": "Hydreigon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhydreigon.jpg"
+  },
+  {
+    "index": 25,
+    "nama": "Kangaskhan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkangaskhan.jpg"
+  },
+  {
+    "index": 26,
+    "nama": "Cherubi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncherubi.jpg"
+  },
+  {
+    "index": 27,
+    "nama": "Tyrunt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontyrunt.jpg"
+  },
+  {
+    "index": 28,
+    "nama": "Luvdisc",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonluvdisc.jpg"
+  },
+  {
+    "index": 29,
+    "nama": "Seaking",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonseaking.jpg"
+  },
+  {
+    "index": 30,
+    "nama": "Bunnelby",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbunnelby.jpg"
+  },
+  {
+    "index": 31,
+    "nama": "Aurorus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaurorus.jpg"
+  },
+  {
+    "index": 32,
+    "nama": "Machop",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmachop.jpg"
+  },
+  {
+    "index": 33,
+    "nama": "Ampharos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonampharos.jpg"
+  },
+  {
+    "index": 34,
+    "nama": "Fletchling",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfletchling.jpg"
+  },
+  {
+    "index": 35,
+    "nama": "Guzzlord",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonguzzlord.jpg"
+  },
+  {
+    "index": 36,
+    "nama": "Magnemite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagnemite.jpg"
+  },
+  {
+    "index": 37,
+    "nama": "Phione",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonphione.jpg"
+  },
+  {
+    "index": 38,
+    "nama": "Electabuzz",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonelectabuzz.jpg"
+  },
+  {
+    "index": 39,
+    "nama": "Dialga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondialga.jpg"
+  },
+  {
+    "index": 40,
+    "nama": "Sentret",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsentret.jpg"
+  },
+  {
+    "index": 41,
+    "nama": "Diglett",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondiglett.jpg"
+  },
+  {
+    "index": 42,
+    "nama": "Swirlix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswirlix.jpg"
+  },
+  {
+    "index": 43,
+    "nama": "Torkoal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontorkoal.jpg"
+  },
+  {
+    "index": 44,
+    "nama": "Granbull",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongranbull.jpg"
+  },
+  {
+    "index": 45,
+    "nama": "Throh",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonthroh.jpg"
+  },
+  {
+    "index": 46,
+    "nama": "Wimpod",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwimpod.jpg"
+  },
+  {
+    "index": 47,
+    "nama": "Carnivine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncarnivine.jpg"
+  },
+  {
+    "index": 48,
+    "nama": "Komala",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkomala.jpg"
+  },
+  {
+    "index": 49,
+    "nama": "Togetic",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontogetic.jpg"
+  },
+  {
+    "index": 50,
+    "nama": "Dhelmise",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondhelmise.jpg"
+  },
+  {
+    "index": 51,
+    "nama": "Eelektrik",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoneelektrik.jpg"
+  },
+  {
+    "index": 52,
+    "nama": "Uxie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonuxie.jpg"
+  },
+  {
+    "index": 53,
+    "nama": "Gastrodon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongastrodon.jpg"
+  },
+  {
+    "index": 54,
+    "nama": "Audino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaudino.jpg"
+  },
+  {
+    "index": 55,
+    "nama": "Stantler",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstantler.jpg"
+  },
+  {
+    "index": 56,
+    "nama": "Cranidos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncranidos.jpg"
+  },
+  {
+    "index": 57,
+    "nama": "Excadrill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonexcadrill.jpg"
+  },
+  {
+    "index": 58,
+    "nama": "Lilligant",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlilligant.jpg"
+  },
+  {
+    "index": 59,
+    "nama": "Chingling",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchingling.jpg"
+  },
+  {
+    "index": 60,
+    "nama": "Volbeat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvolbeat.jpg"
+  },
+  {
+    "index": 61,
+    "nama": "Cloyster",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncloyster.jpg"
+  },
+  {
+    "index": 62,
+    "nama": "Horsea",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhorsea.jpg"
+  },
+  {
+    "index": 63,
+    "nama": "Mewtwo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmewtwo.jpg"
+  },
+  {
+    "index": 64,
+    "nama": "Patrat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpatrat.jpg"
+  },
+  {
+    "index": 65,
+    "nama": "Roselia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonroselia.jpg"
+  },
+  {
+    "index": 66,
+    "nama": "Nihilego",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnihilego.jpg"
+  },
+  {
+    "index": 67,
+    "nama": "Zangoose",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzangoose.jpg"
+  },
+  {
+    "index": 68,
+    "nama": "Chinchou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchinchou.jpg"
+  },
+  {
+    "index": 69,
+    "nama": "Eelektross",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoneelektross.jpg"
+  },
+  {
+    "index": 70,
+    "nama": "Cofagrigus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncofagrigus.jpg"
+  },
+  {
+    "index": 71,
+    "nama": "Castform",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncastform.jpg"
+  },
+  {
+    "index": 72,
+    "nama": "Relicanth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrelicanth.jpg"
+  },
+  {
+    "index": 73,
+    "nama": "Lotad",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlotad.jpg"
+  },
+  {
+    "index": 74,
+    "nama": "Plusle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonplusle.jpg"
+  },
+  {
+    "index": 75,
+    "nama": "Zigzagoon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzigzagoon.jpg"
+  },
+  {
+    "index": 76,
+    "nama": "Wailord",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwailord.jpg"
+  },
+  {
+    "index": 77,
+    "nama": "Haunter",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhaunter.jpg"
+  },
+  {
+    "index": 78,
+    "nama": "Kommo-o",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkommo-o.jpg"
+  },
+  {
+    "index": 79,
+    "nama": "Jirachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjirachi.jpg"
+  },
+  {
+    "index": 80,
+    "nama": "Flygon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonflygon.jpg"
+  },
+  {
+    "index": 81,
+    "nama": "Stunky",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstunky.jpg"
+  },
+  {
+    "index": 82,
+    "nama": "Tangrowth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontangrowth.jpg"
+  },
+  {
+    "index": 83,
+    "nama": "Gorebyss",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongorebyss.jpg"
+  },
+  {
+    "index": 84,
+    "nama": "Doublade",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondoublade.jpg"
+  },
+  {
+    "index": 85,
+    "nama": "Regigigas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonregigigas.jpg"
+  },
+  {
+    "index": 86,
+    "nama": "Kyogre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkyogre.jpg"
+  },
+  {
+    "index": 87,
+    "nama": "Genesect",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongenesect.jpg"
+  },
+  {
+    "index": 88,
+    "nama": "Turtonator",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonturtonator.jpg"
+  },
+  {
+    "index": 89,
+    "nama": "Skiddo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskiddo.jpg"
+  },
+  {
+    "index": 90,
+    "nama": "Froslass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfroslass.jpg"
+  },
+  {
+    "index": 91,
+    "nama": "Dragalge",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondragalge.jpg"
+  },
+  {
+    "index": 92,
+    "nama": "Stakataka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstakataka.jpg"
+  },
+  {
+    "index": 93,
+    "nama": "Munchlax",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmunchlax.jpg"
+  },
+  {
+    "index": 94,
+    "nama": "Huntail",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhuntail.jpg"
+  },
+  {
+    "index": 95,
+    "nama": "Smoochum",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsmoochum.jpg"
+  },
+  {
+    "index": 96,
+    "nama": "Metang",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmetang.jpg"
+  },
+  {
+    "index": 97,
+    "nama": "Treecko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontreecko.jpg"
+  },
+  {
+    "index": 98,
+    "nama": "Grovyle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongrovyle.jpg"
+  },
+  {
+    "index": 99,
+    "nama": "Skorupi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskorupi.jpg"
+  },
+  {
+    "index": 100,
+    "nama": "Snivy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsnivy.jpg"
+  },
+  {
+    "index": 101,
+    "nama": "Regirock",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonregirock.jpg"
+  },
+  {
+    "index": 102,
+    "nama": "Typhlosion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontyphlosion.jpg"
+  },
+  {
+    "index": 103,
+    "nama": "Clefairy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonclefairy.jpg"
+  },
+  {
+    "index": 104,
+    "nama": "Meganium",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmeganium.jpg"
+  },
+  {
+    "index": 105,
+    "nama": "Nincada",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnincada.jpg"
+  },
+  {
+    "index": 106,
+    "nama": "Shiinotic",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshiinotic.jpg"
+  },
+  {
+    "index": 107,
+    "nama": "Wooper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwooper.jpg"
+  },
+  {
+    "index": 108,
+    "nama": "Blacephalon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonblacephalon.jpg"
+  },
+  {
+    "index": 109,
+    "nama": "Miltank",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmiltank.jpg"
+  },
+  {
+    "index": 110,
+    "nama": "Stoutland",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstoutland.jpg"
+  },
+  {
+    "index": 111,
+    "nama": "Slowpoke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslowpoke.jpg"
+  },
+  {
+    "index": 112,
+    "nama": "Tauros",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontauros.jpg"
+  },
+  {
+    "index": 113,
+    "nama": "Togepi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontogepi.jpg"
+  },
+  {
+    "index": 114,
+    "nama": "Bibarel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbibarel.jpg"
+  },
+  {
+    "index": 115,
+    "nama": "Feraligatr",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonferaligatr.jpg"
+  },
+  {
+    "index": 116,
+    "nama": "Metapod",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmetapod.jpg"
+  },
+  {
+    "index": 117,
+    "nama": "Azumarill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonazumarill.jpg"
+  },
+  {
+    "index": 118,
+    "nama": "Ambipom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonambipom.jpg"
+  },
+  {
+    "index": 119,
+    "nama": "Yanmega",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonyanmega.jpg"
+  },
+  {
+    "index": 120,
+    "nama": "Toxapex",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontoxapex.jpg"
+  },
+  {
+    "index": 121,
+    "nama": "Whimsicott",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwhimsicott.jpg"
+  },
+  {
+    "index": 122,
+    "nama": "Terrakion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonterrakion.jpg"
+  },
+  {
+    "index": 123,
+    "nama": "Golduck",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongolduck.jpg"
+  },
+  {
+    "index": 124,
+    "nama": "Koffing",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkoffing.jpg"
+  },
+  {
+    "index": 125,
+    "nama": "Mienshao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmienshao.jpg"
+  },
+  {
+    "index": 126,
+    "nama": "Giratina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongiratina.jpg"
+  },
+  {
+    "index": 127,
+    "nama": "Wurmple",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwurmple.jpg"
+  },
+  {
+    "index": 128,
+    "nama": "Honedge",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhonedge.jpg"
+  },
+  {
+    "index": 129,
+    "nama": "Espurr",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonespurr.jpg"
+  },
+  {
+    "index": 130,
+    "nama": "Absol",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonabsol.jpg"
+  },
+  {
+    "index": 131,
+    "nama": "Dewpider",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondewpider.jpg"
+  },
+  {
+    "index": 132,
+    "nama": "Marowak",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmarowak.jpg"
+  },
+  {
+    "index": 133,
+    "nama": "Bouffalant",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbouffalant.jpg"
+  },
+  {
+    "index": 134,
+    "nama": "Psyduck",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpsyduck.jpg"
+  },
+  {
+    "index": 135,
+    "nama": "Xerneas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonxerneas.jpg"
+  },
+  {
+    "index": 136,
+    "nama": "Houndour",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhoundour.jpg"
+  },
+  {
+    "index": 137,
+    "nama": "Burmy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonburmy.jpg"
+  },
+  {
+    "index": 138,
+    "nama": "Solosis",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsolosis.jpg"
+  },
+  {
+    "index": 139,
+    "nama": "Starly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstarly.jpg"
+  },
+  {
+    "index": 140,
+    "nama": "Musharna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmusharna.jpg"
+  },
+  {
+    "index": 141,
+    "nama": "Dedenne",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondedenne.jpg"
+  },
+  {
+    "index": 142,
+    "nama": "Staryu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstaryu.jpg"
+  },
+  {
+    "index": 143,
+    "nama": "Heracross",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonheracross.jpg"
+  },
+  {
+    "index": 144,
+    "nama": "Manaphy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmanaphy.jpg"
+  },
+  {
+    "index": 145,
+    "nama": "Lugia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlugia.jpg"
+  },
+  {
+    "index": 146,
+    "nama": "Jumpluff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjumpluff.jpg"
+  },
+  {
+    "index": 147,
+    "nama": "Slugma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslugma.jpg"
+  },
+  {
+    "index": 148,
+    "nama": "Spiritomb",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspiritomb.jpg"
+  },
+  {
+    "index": 149,
+    "nama": "Togedemaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontogedemaru.jpg"
+  },
+  {
+    "index": 150,
+    "nama": "Nuzleaf",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnuzleaf.jpg"
+  },
+  {
+    "index": 151,
+    "nama": "Poliwrath",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpoliwrath.jpg"
+  },
+  {
+    "index": 152,
+    "nama": "Spearow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspearow.jpg"
+  },
+  {
+    "index": 153,
+    "nama": "Golem",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongolem.jpg"
+  },
+  {
+    "index": 154,
+    "nama": "Salandit",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsalandit.jpg"
+  },
+  {
+    "index": 155,
+    "nama": "Medicham",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmedicham.jpg"
+  },
+  {
+    "index": 156,
+    "nama": "Azurill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonazurill.jpg"
+  },
+  {
+    "index": 157,
+    "nama": "Leafeon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonleafeon.jpg"
+  },
+  {
+    "index": 158,
+    "nama": "Xurkitree",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonxurkitree.jpg"
+  },
+  {
+    "index": 159,
+    "nama": "Tapu Lele",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontapu-lele.jpg"
+  },
+  {
+    "index": 160,
+    "nama": "Marshadow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmarshadow.jpg"
+  },
+  {
+    "index": 161,
+    "nama": "Wormadam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwormadam.jpg"
+  },
+  {
+    "index": 162,
+    "nama": "Rhyperior",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrhyperior.jpg"
+  },
+  {
+    "index": 163,
+    "nama": "Milotic",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmilotic.jpg"
+  },
+  {
+    "index": 164,
+    "nama": "Blissey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonblissey.jpg"
+  },
+  {
+    "index": 165,
+    "nama": "Pheromosa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpheromosa.jpg"
+  },
+  {
+    "index": 166,
+    "nama": "Inkay",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoninkay.jpg"
+  },
+  {
+    "index": 167,
+    "nama": "Glameow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonglameow.jpg"
+  },
+  {
+    "index": 168,
+    "nama": "Kingler",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkingler.jpg"
+  },
+  {
+    "index": 169,
+    "nama": "Grubbin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongrubbin.jpg"
+  },
+  {
+    "index": 170,
+    "nama": "Corsola",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncorsola.jpg"
+  },
+  {
+    "index": 171,
+    "nama": "Gigalith",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongigalith.jpg"
+  },
+  {
+    "index": 172,
+    "nama": "Umbreon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonumbreon.jpg"
+  },
+  {
+    "index": 173,
+    "nama": "Snorunt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsnorunt.jpg"
+  },
+  {
+    "index": 174,
+    "nama": "Swablu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswablu.jpg"
+  },
+  {
+    "index": 175,
+    "nama": "Pancham",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpancham.jpg"
+  },
+  {
+    "index": 176,
+    "nama": "Swinub",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswinub.jpg"
+  },
+  {
+    "index": 177,
+    "nama": "Porygon2",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonporygon2.jpg"
+  },
+  {
+    "index": 178,
+    "nama": "Clauncher",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonclauncher.jpg"
+  },
+  {
+    "index": 179,
+    "nama": "Pidove",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpidove.jpg"
+  },
+  {
+    "index": 180,
+    "nama": "Virizion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvirizion.jpg"
+  },
+  {
+    "index": 181,
+    "nama": "Ralts",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonralts.jpg"
+  },
+  {
+    "index": 182,
+    "nama": "Growlithe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongrowlithe.jpg"
+  },
+  {
+    "index": 183,
+    "nama": "Kricketune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkricketune.jpg"
+  },
+  {
+    "index": 184,
+    "nama": "Baltoy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbaltoy.jpg"
+  },
+  {
+    "index": 185,
+    "nama": "Ninetales",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonninetales.jpg"
+  },
+  {
+    "index": 186,
+    "nama": "Crabominable",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncrabominable.jpg"
+  },
+  {
+    "index": 187,
+    "nama": "Sharpedo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsharpedo.jpg"
+  },
+  {
+    "index": 188,
+    "nama": "Grotle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongrotle.jpg"
+  },
+  {
+    "index": 189,
+    "nama": "Lickitung",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlickitung.jpg"
+  },
+  {
+    "index": 190,
+    "nama": "Mr. Mime",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmr-mime.jpg"
+  },
+  {
+    "index": 191,
+    "nama": "Type: Null",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontype-null.jpg"
+  },
+  {
+    "index": 192,
+    "nama": "Deino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondeino.jpg"
+  },
+  {
+    "index": 193,
+    "nama": "Heliolisk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonheliolisk.jpg"
+  },
+  {
+    "index": 194,
+    "nama": "Oricorio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonoricorio.jpg"
+  },
+  {
+    "index": 195,
+    "nama": "Purugly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpurugly.jpg"
+  },
+  {
+    "index": 196,
+    "nama": "Pikipek",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpikipek.jpg"
+  },
+  {
+    "index": 197,
+    "nama": "Garbodor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongarbodor.jpg"
+  },
+  {
+    "index": 198,
+    "nama": "Manectric",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmanectric.jpg"
+  },
+  {
+    "index": 199,
+    "nama": "Raticate",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonraticate.jpg"
+  },
+  {
+    "index": 200,
+    "nama": "Pumpkaboo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpumpkaboo.jpg"
+  },
+  {
+    "index": 201,
+    "nama": "Mantine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmantine.jpg"
+  },
+  {
+    "index": 202,
+    "nama": "Amaura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonamaura.jpg"
+  },
+  {
+    "index": 203,
+    "nama": "Sunkern",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsunkern.jpg"
+  },
+  {
+    "index": 204,
+    "nama": "Gligar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongligar.jpg"
+  },
+  {
+    "index": 205,
+    "nama": "Dragonite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondragonite.jpg"
+  },
+  {
+    "index": 206,
+    "nama": "Parasect",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonparasect.jpg"
+  },
+  {
+    "index": 207,
+    "nama": "Igglybuff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonigglybuff.jpg"
+  },
+  {
+    "index": 208,
+    "nama": "Popplio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpopplio.jpg"
+  },
+  {
+    "index": 209,
+    "nama": "Carbink",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncarbink.jpg"
+  },
+  {
+    "index": 210,
+    "nama": "Murkrow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmurkrow.jpg"
+  },
+  {
+    "index": 211,
+    "nama": "Lileep",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlileep.jpg"
+  },
+  {
+    "index": 212,
+    "nama": "Caterpie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncaterpie.jpg"
+  },
+  {
+    "index": 213,
+    "nama": "Snubbull",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsnubbull.jpg"
+  },
+  {
+    "index": 214,
+    "nama": "Skitty",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskitty.jpg"
+  },
+  {
+    "index": 215,
+    "nama": "Foongus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfoongus.jpg"
+  },
+  {
+    "index": 216,
+    "nama": "Primarina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonprimarina.jpg"
+  },
+  {
+    "index": 217,
+    "nama": "Cresselia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncresselia.jpg"
+  },
+  {
+    "index": 218,
+    "nama": "Abra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonabra.jpg"
+  },
+  {
+    "index": 219,
+    "nama": "Primeape",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonprimeape.jpg"
+  },
+  {
+    "index": 220,
+    "nama": "Tentacool",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontentacool.jpg"
+  },
+  {
+    "index": 221,
+    "nama": "Drifloon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondrifloon.jpg"
+  },
+  {
+    "index": 222,
+    "nama": "Lunatone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlunatone.jpg"
+  },
+  {
+    "index": 223,
+    "nama": "Noctowl",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnoctowl.jpg"
+  },
+  {
+    "index": 224,
+    "nama": "Darumaka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondarumaka.jpg"
+  },
+  {
+    "index": 225,
+    "nama": "Surskit",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsurskit.jpg"
+  },
+  {
+    "index": 226,
+    "nama": "Altaria",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaltaria.jpg"
+  },
+  {
+    "index": 227,
+    "nama": "Volcanion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvolcanion.jpg"
+  },
+  {
+    "index": 228,
+    "nama": "Hypno",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhypno.jpg"
+  },
+  {
+    "index": 229,
+    "nama": "Pidgeot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpidgeot.jpg"
+  },
+  {
+    "index": 230,
+    "nama": "Spinda",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspinda.jpg"
+  },
+  {
+    "index": 231,
+    "nama": "Chikorita",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchikorita.jpg"
+  },
+  {
+    "index": 232,
+    "nama": "Victreebel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvictreebel.jpg"
+  },
+  {
+    "index": 233,
+    "nama": "Clamperl",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonclamperl.jpg"
+  },
+  {
+    "index": 234,
+    "nama": "Shelgon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshelgon.jpg"
+  },
+  {
+    "index": 235,
+    "nama": "Pineco",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpineco.jpg"
+  },
+  {
+    "index": 236,
+    "nama": "Basculin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbasculin.jpg"
+  },
+  {
+    "index": 237,
+    "nama": "Necrozma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnecrozma.jpg"
+  },
+  {
+    "index": 238,
+    "nama": "Ekans",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonekans.jpg"
+  },
+  {
+    "index": 239,
+    "nama": "Sneasel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsneasel.jpg"
+  },
+  {
+    "index": 240,
+    "nama": "Crawdaunt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncrawdaunt.jpg"
+  },
+  {
+    "index": 241,
+    "nama": "Blitzle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonblitzle.jpg"
+  },
+  {
+    "index": 242,
+    "nama": "Scraggy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonscraggy.jpg"
+  },
+  {
+    "index": 243,
+    "nama": "Shroomish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshroomish.jpg"
+  },
+  {
+    "index": 244,
+    "nama": "Luxio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonluxio.jpg"
+  },
+  {
+    "index": 245,
+    "nama": "Rowlet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrowlet.jpg"
+  },
+  {
+    "index": 246,
+    "nama": "Armaldo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarmaldo.jpg"
+  },
+  {
+    "index": 247,
+    "nama": "Unown",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonunown.jpg"
+  },
+  {
+    "index": 248,
+    "nama": "Arceus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarceus.jpg"
+  },
+  {
+    "index": 249,
+    "nama": "Heatmor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonheatmor.jpg"
+  },
+  {
+    "index": 250,
+    "nama": "Butterfree",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbutterfree.jpg"
+  },
+  {
+    "index": 251,
+    "nama": "Sudowoodo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsudowoodo.jpg"
+  },
+  {
+    "index": 252,
+    "nama": "Darmanitan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondarmanitan.jpg"
+  },
+  {
+    "index": 253,
+    "nama": "Dratini",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondratini.jpg"
+  },
+  {
+    "index": 254,
+    "nama": "Goldeen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongoldeen.jpg"
+  },
+  {
+    "index": 255,
+    "nama": "Spritzee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspritzee.jpg"
+  },
+  {
+    "index": 256,
+    "nama": "Pidgey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpidgey.jpg"
+  },
+  {
+    "index": 257,
+    "nama": "Beheeyem",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbeheeyem.jpg"
+  },
+  {
+    "index": 258,
+    "nama": "Boldore",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonboldore.jpg"
+  },
+  {
+    "index": 259,
+    "nama": "Cinccino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncinccino.jpg"
+  },
+  {
+    "index": 260,
+    "nama": "Gourgeist",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongourgeist.jpg"
+  },
+  {
+    "index": 261,
+    "nama": "Lucario",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlucario.jpg"
+  },
+  {
+    "index": 262,
+    "nama": "Phanpy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonphanpy.jpg"
+  },
+  {
+    "index": 263,
+    "nama": "Mimikyu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmimikyu.jpg"
+  },
+  {
+    "index": 264,
+    "nama": "Porygon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonporygon.jpg"
+  },
+  {
+    "index": 265,
+    "nama": "Crabrawler",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncrabrawler.jpg"
+  },
+  {
+    "index": 266,
+    "nama": "Braviary",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbraviary.jpg"
+  },
+  {
+    "index": 267,
+    "nama": "Omanyte",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonomanyte.jpg"
+  },
+  {
+    "index": 268,
+    "nama": "Bronzong",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbronzong.jpg"
+  },
+  {
+    "index": 269,
+    "nama": "Aggron",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaggron.jpg"
+  },
+  {
+    "index": 270,
+    "nama": "Croconaw",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncroconaw.jpg"
+  },
+  {
+    "index": 271,
+    "nama": "Infernape",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoninfernape.jpg"
+  },
+  {
+    "index": 272,
+    "nama": "Combusken",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncombusken.jpg"
+  },
+  {
+    "index": 273,
+    "nama": "Geodude",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongeodude.jpg"
+  },
+  {
+    "index": 274,
+    "nama": "Pawniard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpawniard.jpg"
+  },
+  {
+    "index": 275,
+    "nama": "Meloetta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmeloetta.jpg"
+  },
+  {
+    "index": 276,
+    "nama": "Chansey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchansey.jpg"
+  },
+  {
+    "index": 277,
+    "nama": "Timburr",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontimburr.jpg"
+  },
+  {
+    "index": 278,
+    "nama": "Joltik",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjoltik.jpg"
+  },
+  {
+    "index": 279,
+    "nama": "Wynaut",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwynaut.jpg"
+  },
+  {
+    "index": 280,
+    "nama": "Klang",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonklang.jpg"
+  },
+  {
+    "index": 281,
+    "nama": "Pansear",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpansear.jpg"
+  },
+  {
+    "index": 282,
+    "nama": "Vanillite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvanillite.jpg"
+  },
+  {
+    "index": 283,
+    "nama": "Chespin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchespin.jpg"
+  },
+  {
+    "index": 284,
+    "nama": "Venonat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvenonat.jpg"
+  },
+  {
+    "index": 285,
+    "nama": "Grimer",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongrimer.jpg"
+  },
+  {
+    "index": 286,
+    "nama": "Heatran",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonheatran.jpg"
+  },
+  {
+    "index": 287,
+    "nama": "Gurdurr",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongurdurr.jpg"
+  },
+  {
+    "index": 288,
+    "nama": "Liepard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonliepard.jpg"
+  },
+  {
+    "index": 289,
+    "nama": "Fraxure",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfraxure.jpg"
+  },
+  {
+    "index": 290,
+    "nama": "Sawsbuck",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsawsbuck.jpg"
+  },
+  {
+    "index": 291,
+    "nama": "Goodra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongoodra.jpg"
+  },
+  {
+    "index": 292,
+    "nama": "Zorua",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzorua.jpg"
+  },
+  {
+    "index": 293,
+    "nama": "Druddigon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondruddigon.jpg"
+  },
+  {
+    "index": 294,
+    "nama": "Galvantula",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongalvantula.jpg"
+  },
+  {
+    "index": 295,
+    "nama": "Trumbeak",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontrumbeak.jpg"
+  },
+  {
+    "index": 296,
+    "nama": "Jigglypuff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjigglypuff.jpg"
+  },
+  {
+    "index": 297,
+    "nama": "Mightyena",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmightyena.jpg"
+  },
+  {
+    "index": 298,
+    "nama": "Furfrou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfurfrou.jpg"
+  },
+  {
+    "index": 299,
+    "nama": "Carvanha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncarvanha.jpg"
+  },
+  {
+    "index": 300,
+    "nama": "Sceptile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsceptile.jpg"
+  },
+  {
+    "index": 301,
+    "nama": "Blastoise",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonblastoise.jpg"
+  },
+  {
+    "index": 302,
+    "nama": "Glalie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonglalie.jpg"
+  },
+  {
+    "index": 303,
+    "nama": "Roserade",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonroserade.jpg"
+  },
+  {
+    "index": 304,
+    "nama": "Munna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmunna.jpg"
+  },
+  {
+    "index": 305,
+    "nama": "Zweilous",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzweilous.jpg"
+  },
+  {
+    "index": 306,
+    "nama": "Loudred",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonloudred.jpg"
+  },
+  {
+    "index": 307,
+    "nama": "Dustox",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondustox.jpg"
+  },
+  {
+    "index": 308,
+    "nama": "Tyranitar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontyranitar.jpg"
+  },
+  {
+    "index": 309,
+    "nama": "Pyukumuku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpyukumuku.jpg"
+  },
+  {
+    "index": 310,
+    "nama": "Steenee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsteenee.jpg"
+  },
+  {
+    "index": 311,
+    "nama": "Starmie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstarmie.jpg"
+  },
+  {
+    "index": 312,
+    "nama": "Naganadel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnaganadel.jpg"
+  },
+  {
+    "index": 313,
+    "nama": "Steelix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsteelix.jpg"
+  },
+  {
+    "index": 314,
+    "nama": "Gumshoos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongumshoos.jpg"
+  },
+  {
+    "index": 315,
+    "nama": "Turtwig",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonturtwig.jpg"
+  },
+  {
+    "index": 316,
+    "nama": "Klink",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonklink.jpg"
+  },
+  {
+    "index": 317,
+    "nama": "Lapras",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlapras.jpg"
+  },
+  {
+    "index": 318,
+    "nama": "Lycanroc",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlycanroc.jpg"
+  },
+  {
+    "index": 319,
+    "nama": "Fennekin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfennekin.jpg"
+  },
+  {
+    "index": 320,
+    "nama": "Teddiursa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonteddiursa.jpg"
+  },
+  {
+    "index": 321,
+    "nama": "Simisear",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsimisear.jpg"
+  },
+  {
+    "index": 322,
+    "nama": "Pidgeotto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpidgeotto.jpg"
+  },
+  {
+    "index": 323,
+    "nama": "Dusknoir",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondusknoir.jpg"
+  },
+  {
+    "index": 324,
+    "nama": "Combee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncombee.jpg"
+  },
+  {
+    "index": 325,
+    "nama": "Swadloon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswadloon.jpg"
+  },
+  {
+    "index": 326,
+    "nama": "Wingull",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwingull.jpg"
+  },
+  {
+    "index": 327,
+    "nama": "Hitmontop",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhitmontop.jpg"
+  },
+  {
+    "index": 328,
+    "nama": "Octillery",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonoctillery.jpg"
+  },
+  {
+    "index": 329,
+    "nama": "Deoxys",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondeoxys.jpg"
+  },
+  {
+    "index": 330,
+    "nama": "Latias",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlatias.jpg"
+  },
+  {
+    "index": 331,
+    "nama": "Tirtouga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontirtouga.jpg"
+  },
+  {
+    "index": 332,
+    "nama": "Swoobat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswoobat.jpg"
+  },
+  {
+    "index": 333,
+    "nama": "Palpitoad",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpalpitoad.jpg"
+  },
+  {
+    "index": 334,
+    "nama": "Jellicent",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjellicent.jpg"
+  },
+  {
+    "index": 335,
+    "nama": "Meltan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmeltan.jpg"
+  },
+  {
+    "index": 336,
+    "nama": "Weavile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonweavile.jpg"
+  },
+  {
+    "index": 337,
+    "nama": "Bellsprout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbellsprout.jpg"
+  },
+  {
+    "index": 338,
+    "nama": "Numel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnumel.jpg"
+  },
+  {
+    "index": 339,
+    "nama": "Trubbish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontrubbish.jpg"
+  },
+  {
+    "index": 340,
+    "nama": "Krookodile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkrookodile.jpg"
+  },
+  {
+    "index": 341,
+    "nama": "Lombre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlombre.jpg"
+  },
+  {
+    "index": 342,
+    "nama": "Tyrantrum",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontyrantrum.jpg"
+  },
+  {
+    "index": 343,
+    "nama": "Hitmonchan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhitmonchan.jpg"
+  },
+  {
+    "index": 344,
+    "nama": "Quilladin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonquilladin.jpg"
+  },
+  {
+    "index": 345,
+    "nama": "Shaymin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshaymin.jpg"
+  },
+  {
+    "index": 346,
+    "nama": "Comfey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncomfey.jpg"
+  },
+  {
+    "index": 347,
+    "nama": "Zekrom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzekrom.jpg"
+  },
+  {
+    "index": 348,
+    "nama": "Zubat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzubat.jpg"
+  },
+  {
+    "index": 349,
+    "nama": "Happiny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhappiny.jpg"
+  },
+  {
+    "index": 350,
+    "nama": "Vespiquen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvespiquen.jpg"
+  },
+  {
+    "index": 351,
+    "nama": "Drapion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondrapion.jpg"
+  },
+  {
+    "index": 352,
+    "nama": "Beedrill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbeedrill.jpg"
+  },
+  {
+    "index": 353,
+    "nama": "Anorith",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonanorith.jpg"
+  },
+  {
+    "index": 354,
+    "nama": "Bayleef",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbayleef.jpg"
+  },
+  {
+    "index": 355,
+    "nama": "Yungoos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonyungoos.jpg"
+  },
+  {
+    "index": 356,
+    "nama": "Cubchoo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncubchoo.jpg"
+  },
+  {
+    "index": 357,
+    "nama": "Vikavolt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvikavolt.jpg"
+  },
+  {
+    "index": 358,
+    "nama": "Frillish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfrillish.jpg"
+  },
+  {
+    "index": 359,
+    "nama": "Serperior",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonserperior.jpg"
+  },
+  {
+    "index": 360,
+    "nama": "Mew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmew.jpg"
+  },
+  {
+    "index": 361,
+    "nama": "Chandelure",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchandelure.jpg"
+  },
+  {
+    "index": 362,
+    "nama": "Archeops",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarcheops.jpg"
+  },
+  {
+    "index": 363,
+    "nama": "Haxorus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhaxorus.jpg"
+  },
+  {
+    "index": 364,
+    "nama": "Charmeleon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncharmeleon.jpg"
+  },
+  {
+    "index": 365,
+    "nama": "Shuckle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshuckle.jpg"
+  },
+  {
+    "index": 366,
+    "nama": "Slakoth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslakoth.jpg"
+  },
+  {
+    "index": 367,
+    "nama": "Marshtomp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmarshtomp.jpg"
+  },
+  {
+    "index": 368,
+    "nama": "Gardevoir",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongardevoir.jpg"
+  },
+  {
+    "index": 369,
+    "nama": "Lurantis",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlurantis.jpg"
+  },
+  {
+    "index": 370,
+    "nama": "Krabby",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkrabby.jpg"
+  },
+  {
+    "index": 371,
+    "nama": "Volcarona",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvolcarona.jpg"
+  },
+  {
+    "index": 372,
+    "nama": "Rayquaza",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrayquaza.jpg"
+  },
+  {
+    "index": 373,
+    "nama": "Sandile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsandile.jpg"
+  },
+  {
+    "index": 374,
+    "nama": "Jynx",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjynx.jpg"
+  },
+  {
+    "index": 375,
+    "nama": "Tyrogue",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontyrogue.jpg"
+  },
+  {
+    "index": 376,
+    "nama": "Axew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaxew.jpg"
+  },
+  {
+    "index": 377,
+    "nama": "Froakie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfroakie.jpg"
+  },
+  {
+    "index": 378,
+    "nama": "Cyndaquil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncyndaquil.jpg"
+  },
+  {
+    "index": 379,
+    "nama": "Natu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnatu.jpg"
+  },
+  {
+    "index": 380,
+    "nama": "Simipour",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsimipour.jpg"
+  },
+  {
+    "index": 381,
+    "nama": "Kricketot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkricketot.jpg"
+  },
+  {
+    "index": 382,
+    "nama": "Breloom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbreloom.jpg"
+  },
+  {
+    "index": 383,
+    "nama": "Yamask",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonyamask.jpg"
+  },
+  {
+    "index": 384,
+    "nama": "Bruxish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbruxish.jpg"
+  },
+  {
+    "index": 385,
+    "nama": "Magearna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagearna.jpg"
+  },
+  {
+    "index": 386,
+    "nama": "Cacnea",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncacnea.jpg"
+  },
+  {
+    "index": 387,
+    "nama": "Furret",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfurret.jpg"
+  },
+  {
+    "index": 388,
+    "nama": "Mareep",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmareep.jpg"
+  },
+  {
+    "index": 389,
+    "nama": "Leavanny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonleavanny.jpg"
+  },
+  {
+    "index": 390,
+    "nama": "Flareon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonflareon.jpg"
+  },
+  {
+    "index": 391,
+    "nama": "Lumineon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlumineon.jpg"
+  },
+  {
+    "index": 392,
+    "nama": "Magmortar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagmortar.jpg"
+  },
+  {
+    "index": 393,
+    "nama": "Silcoon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsilcoon.jpg"
+  },
+  {
+    "index": 394,
+    "nama": "Latios",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlatios.jpg"
+  },
+  {
+    "index": 395,
+    "nama": "Girafarig",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongirafarig.jpg"
+  },
+  {
+    "index": 396,
+    "nama": "Porygon-Z",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonporygon-z.jpg"
+  },
+  {
+    "index": 397,
+    "nama": "Misdreavus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmisdreavus.jpg"
+  },
+  {
+    "index": 398,
+    "nama": "Golett",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongolett.jpg"
+  },
+  {
+    "index": 399,
+    "nama": "Passimian",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpassimian.jpg"
+  },
+  {
+    "index": 400,
+    "nama": "Silvally",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsilvally.jpg"
+  },
+  {
+    "index": 401,
+    "nama": "Gastly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongastly.jpg"
+  },
+  {
+    "index": 402,
+    "nama": "Incineroar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonincineroar.jpg"
+  },
+  {
+    "index": 403,
+    "nama": "Aerodactyl",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaerodactyl.jpg"
+  },
+  {
+    "index": 404,
+    "nama": "Bulbasaur",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbulbasaur.jpg"
+  },
+  {
+    "index": 405,
+    "nama": "Venusaur",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvenusaur.jpg"
+  },
+  {
+    "index": 406,
+    "nama": "Finneon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfinneon.jpg"
+  },
+  {
+    "index": 407,
+    "nama": "Pelipper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpelipper.jpg"
+  },
+  {
+    "index": 408,
+    "nama": "Aromatisse",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaromatisse.jpg"
+  },
+  {
+    "index": 409,
+    "nama": "Reshiram",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonreshiram.jpg"
+  },
+  {
+    "index": 410,
+    "nama": "Garchomp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongarchomp.jpg"
+  },
+  {
+    "index": 411,
+    "nama": "Hakamo-o",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhakamo-o.jpg"
+  },
+  {
+    "index": 412,
+    "nama": "Darkrai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondarkrai.jpg"
+  },
+  {
+    "index": 413,
+    "nama": "Bonsly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbonsly.jpg"
+  },
+  {
+    "index": 414,
+    "nama": "Carracosta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncarracosta.jpg"
+  },
+  {
+    "index": 415,
+    "nama": "Ho-Oh",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonho-oh.jpg"
+  },
+  {
+    "index": 416,
+    "nama": "Escavalier",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonescavalier.jpg"
+  },
+  {
+    "index": 417,
+    "nama": "Electivire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonelectivire.jpg"
+  },
+  {
+    "index": 418,
+    "nama": "Rampardos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrampardos.jpg"
+  },
+  {
+    "index": 419,
+    "nama": "Woobat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwoobat.jpg"
+  },
+  {
+    "index": 420,
+    "nama": "Pansage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpansage.jpg"
+  },
+  {
+    "index": 421,
+    "nama": "Watchog",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwatchog.jpg"
+  },
+  {
+    "index": 422,
+    "nama": "Lopunny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlopunny.jpg"
+  },
+  {
+    "index": 423,
+    "nama": "Stunfisk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstunfisk.jpg"
+  },
+  {
+    "index": 424,
+    "nama": "Pikachu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpikachu.jpg"
+  },
+  {
+    "index": 425,
+    "nama": "Mudkip",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmudkip.jpg"
+  },
+  {
+    "index": 426,
+    "nama": "Mankey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmankey.jpg"
+  },
+  {
+    "index": 427,
+    "nama": "Delphox",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondelphox.jpg"
+  },
+  {
+    "index": 428,
+    "nama": "Gothorita",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongothorita.jpg"
+  },
+  {
+    "index": 429,
+    "nama": "Seviper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonseviper.jpg"
+  },
+  {
+    "index": 430,
+    "nama": "Jangmo-o",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjangmo-o.jpg"
+  },
+  {
+    "index": 431,
+    "nama": "Kadabra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkadabra.jpg"
+  },
+  {
+    "index": 432,
+    "nama": "Swalot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswalot.jpg"
+  },
+  {
+    "index": 433,
+    "nama": "Whirlipede",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwhirlipede.jpg"
+  },
+  {
+    "index": 434,
+    "nama": "Regice",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonregice.jpg"
+  },
+  {
+    "index": 435,
+    "nama": "Quagsire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonquagsire.jpg"
+  },
+  {
+    "index": 436,
+    "nama": "Ferroseed",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonferroseed.jpg"
+  },
+  {
+    "index": 437,
+    "nama": "Piplup",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpiplup.jpg"
+  },
+  {
+    "index": 438,
+    "nama": "Toucannon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontoucannon.jpg"
+  },
+  {
+    "index": 439,
+    "nama": "Golisopod",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongolisopod.jpg"
+  },
+  {
+    "index": 440,
+    "nama": "Sandshrew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsandshrew.jpg"
+  },
+  {
+    "index": 441,
+    "nama": "Ditto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonditto.jpg"
+  },
+  {
+    "index": 442,
+    "nama": "Luxray",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonluxray.jpg"
+  },
+  {
+    "index": 443,
+    "nama": "Barboach",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbarboach.jpg"
+  },
+  {
+    "index": 444,
+    "nama": "Crustle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncrustle.jpg"
+  },
+  {
+    "index": 445,
+    "nama": "Wigglytuff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwigglytuff.jpg"
+  },
+  {
+    "index": 446,
+    "nama": "Hippowdon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhippowdon.jpg"
+  },
+  {
+    "index": 447,
+    "nama": "Unfezant",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonunfezant.jpg"
+  },
+  {
+    "index": 448,
+    "nama": "Vigoroth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvigoroth.jpg"
+  },
+  {
+    "index": 449,
+    "nama": "Beldum",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbeldum.jpg"
+  },
+  {
+    "index": 450,
+    "nama": "Buneary",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbuneary.jpg"
+  },
+  {
+    "index": 451,
+    "nama": "Feebas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfeebas.jpg"
+  },
+  {
+    "index": 452,
+    "nama": "Trapinch",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontrapinch.jpg"
+  },
+  {
+    "index": 453,
+    "nama": "Mareanie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmareanie.jpg"
+  },
+  {
+    "index": 454,
+    "nama": "Aegislash",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaegislash.jpg"
+  },
+  {
+    "index": 455,
+    "nama": "Charmander",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncharmander.jpg"
+  },
+  {
+    "index": 456,
+    "nama": "Skuntank",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskuntank.jpg"
+  },
+  {
+    "index": 457,
+    "nama": "Noivern",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnoivern.jpg"
+  },
+  {
+    "index": 458,
+    "nama": "Lampent",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlampent.jpg"
+  },
+  {
+    "index": 459,
+    "nama": "Vileplume",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvileplume.jpg"
+  },
+  {
+    "index": 460,
+    "nama": "Tranquill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontranquill.jpg"
+  },
+  {
+    "index": 461,
+    "nama": "Slurpuff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslurpuff.jpg"
+  },
+  {
+    "index": 462,
+    "nama": "Solgaleo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsolgaleo.jpg"
+  },
+  {
+    "index": 463,
+    "nama": "Sliggoo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsliggoo.jpg"
+  },
+  {
+    "index": 464,
+    "nama": "Simisage",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsimisage.jpg"
+  },
+  {
+    "index": 465,
+    "nama": "Poochyena",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpoochyena.jpg"
+  },
+  {
+    "index": 466,
+    "nama": "Nidorino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnidorino.jpg"
+  },
+  {
+    "index": 467,
+    "nama": "Empoleon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonempoleon.jpg"
+  },
+  {
+    "index": 468,
+    "nama": "Shelmet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshelmet.jpg"
+  },
+  {
+    "index": 469,
+    "nama": "Mawile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmawile.jpg"
+  },
+  {
+    "index": 470,
+    "nama": "Vibrava",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvibrava.jpg"
+  },
+  {
+    "index": 471,
+    "nama": "Jolteon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonjolteon.jpg"
+  },
+  {
+    "index": 472,
+    "nama": "Malamar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmalamar.jpg"
+  },
+  {
+    "index": 473,
+    "nama": "Abomasnow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonabomasnow.jpg"
+  },
+  {
+    "index": 474,
+    "nama": "Sunflora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsunflora.jpg"
+  },
+  {
+    "index": 475,
+    "nama": "Monferno",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmonferno.jpg"
+  },
+  {
+    "index": 476,
+    "nama": "Duskull",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonduskull.jpg"
+  },
+  {
+    "index": 477,
+    "nama": "Golbat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongolbat.jpg"
+  },
+  {
+    "index": 478,
+    "nama": "Magby",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagby.jpg"
+  },
+  {
+    "index": 479,
+    "nama": "Ledian",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonledian.jpg"
+  },
+  {
+    "index": 480,
+    "nama": "Vivillon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvivillon.jpg"
+  },
+  {
+    "index": 481,
+    "nama": "Keldeo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkeldeo.jpg"
+  },
+  {
+    "index": 482,
+    "nama": "Sigilyph",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsigilyph.jpg"
+  },
+  {
+    "index": 483,
+    "nama": "Hawlucha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhawlucha.jpg"
+  },
+  {
+    "index": 484,
+    "nama": "Eevee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoneevee.jpg"
+  },
+  {
+    "index": 485,
+    "nama": "Kirlia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkirlia.jpg"
+  },
+  {
+    "index": 486,
+    "nama": "Chimchar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchimchar.jpg"
+  },
+  {
+    "index": 487,
+    "nama": "Vullaby",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvullaby.jpg"
+  },
+  {
+    "index": 488,
+    "nama": "Dodrio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondodrio.jpg"
+  },
+  {
+    "index": 489,
+    "nama": "Shedinja",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshedinja.jpg"
+  },
+  {
+    "index": 490,
+    "nama": "Exploud",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonexploud.jpg"
+  },
+  {
+    "index": 491,
+    "nama": "Bewear",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbewear.jpg"
+  },
+  {
+    "index": 492,
+    "nama": "Gulpin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongulpin.jpg"
+  },
+  {
+    "index": 493,
+    "nama": "Floette",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfloette.jpg"
+  },
+  {
+    "index": 494,
+    "nama": "Dartrix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondartrix.jpg"
+  },
+  {
+    "index": 495,
+    "nama": "Magneton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagneton.jpg"
+  },
+  {
+    "index": 496,
+    "nama": "Tapu Bulu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontapu-bulu.jpg"
+  },
+  {
+    "index": 497,
+    "nama": "Espeon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonespeon.jpg"
+  },
+  {
+    "index": 498,
+    "nama": "Diggersby",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondiggersby.jpg"
+  },
+  {
+    "index": 499,
+    "nama": "Charizard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncharizard.jpg"
+  },
+  {
+    "index": 500,
+    "nama": "Raikou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonraikou.jpg"
+  },
+  {
+    "index": 501,
+    "nama": "Whiscash",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwhiscash.jpg"
+  },
+  {
+    "index": 502,
+    "nama": "Minccino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonminccino.jpg"
+  },
+  {
+    "index": 503,
+    "nama": "Tornadus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontornadus.jpg"
+  },
+  {
+    "index": 504,
+    "nama": "Slowking",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslowking.jpg"
+  },
+  {
+    "index": 505,
+    "nama": "Mismagius",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmismagius.jpg"
+  },
+  {
+    "index": 506,
+    "nama": "Bergmite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbergmite.jpg"
+  },
+  {
+    "index": 507,
+    "nama": "Kyurem",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkyurem.jpg"
+  },
+  {
+    "index": 508,
+    "nama": "Corphish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncorphish.jpg"
+  },
+  {
+    "index": 509,
+    "nama": "Raichu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonraichu.jpg"
+  },
+  {
+    "index": 510,
+    "nama": "Pupitar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpupitar.jpg"
+  },
+  {
+    "index": 511,
+    "nama": "Ponyta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonponyta.jpg"
+  },
+  {
+    "index": 512,
+    "nama": "Hitmonlee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhitmonlee.jpg"
+  },
+  {
+    "index": 513,
+    "nama": "Cradily",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncradily.jpg"
+  },
+  {
+    "index": 514,
+    "nama": "Vaporeon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvaporeon.jpg"
+  },
+  {
+    "index": 515,
+    "nama": "Chatot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchatot.jpg"
+  },
+  {
+    "index": 516,
+    "nama": "Bounsweet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbounsweet.jpg"
+  },
+  {
+    "index": 517,
+    "nama": "Makuhita",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmakuhita.jpg"
+  },
+  {
+    "index": 518,
+    "nama": "Meowstic",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmeowstic.jpg"
+  },
+  {
+    "index": 519,
+    "nama": "Landorus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlandorus.jpg"
+  },
+  {
+    "index": 520,
+    "nama": "Scyther",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonscyther.jpg"
+  },
+  {
+    "index": 521,
+    "nama": "Swanna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswanna.jpg"
+  },
+  {
+    "index": 522,
+    "nama": "Seel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonseel.jpg"
+  },
+  {
+    "index": 523,
+    "nama": "Elgyem",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonelgyem.jpg"
+  },
+  {
+    "index": 524,
+    "nama": "Klefki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonklefki.jpg"
+  },
+  {
+    "index": 525,
+    "nama": "Rhyhorn",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrhyhorn.jpg"
+  },
+  {
+    "index": 526,
+    "nama": "Emboar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonemboar.jpg"
+  },
+  {
+    "index": 527,
+    "nama": "Articuno",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarticuno.jpg"
+  },
+  {
+    "index": 528,
+    "nama": "Zygarde",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzygarde.jpg"
+  },
+  {
+    "index": 529,
+    "nama": "Maractus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmaractus.jpg"
+  },
+  {
+    "index": 530,
+    "nama": "Ribombee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonribombee.jpg"
+  },
+  {
+    "index": 531,
+    "nama": "Ludicolo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonludicolo.jpg"
+  },
+  {
+    "index": 532,
+    "nama": "Onix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemononix.jpg"
+  },
+  {
+    "index": 533,
+    "nama": "Nidoking",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnidoking.jpg"
+  },
+  {
+    "index": 534,
+    "nama": "Hoothoot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhoothoot.jpg"
+  },
+  {
+    "index": 535,
+    "nama": "Panpour",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpanpour.jpg"
+  },
+  {
+    "index": 536,
+    "nama": "Prinplup",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonprinplup.jpg"
+  },
+  {
+    "index": 537,
+    "nama": "Donphan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondonphan.jpg"
+  },
+  {
+    "index": 538,
+    "nama": "Gothita",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongothita.jpg"
+  },
+  {
+    "index": 539,
+    "nama": "Sylveon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsylveon.jpg"
+  },
+  {
+    "index": 540,
+    "nama": "Drampa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondrampa.jpg"
+  },
+  {
+    "index": 541,
+    "nama": "Moltres",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmoltres.jpg"
+  },
+  {
+    "index": 542,
+    "nama": "Chimecho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchimecho.jpg"
+  },
+  {
+    "index": 543,
+    "nama": "Roggenrola",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonroggenrola.jpg"
+  },
+  {
+    "index": 544,
+    "nama": "Nosepass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnosepass.jpg"
+  },
+  {
+    "index": 545,
+    "nama": "Entei",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonentei.jpg"
+  },
+  {
+    "index": 546,
+    "nama": "Squirtle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsquirtle.jpg"
+  },
+  {
+    "index": 547,
+    "nama": "Pignite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpignite.jpg"
+  },
+  {
+    "index": 548,
+    "nama": "Beautifly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbeautifly.jpg"
+  },
+  {
+    "index": 549,
+    "nama": "Masquerain",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmasquerain.jpg"
+  },
+  {
+    "index": 550,
+    "nama": "Rotom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrotom.jpg"
+  },
+  {
+    "index": 551,
+    "nama": "Magmar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagmar.jpg"
+  },
+  {
+    "index": 552,
+    "nama": "Shellder",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshellder.jpg"
+  },
+  {
+    "index": 553,
+    "nama": "Magnezone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagnezone.jpg"
+  },
+  {
+    "index": 554,
+    "nama": "Rattata",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrattata.jpg"
+  },
+  {
+    "index": 555,
+    "nama": "Voltorb",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvoltorb.jpg"
+  },
+  {
+    "index": 556,
+    "nama": "Charjabug",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncharjabug.jpg"
+  },
+  {
+    "index": 557,
+    "nama": "Cutiefly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncutiefly.jpg"
+  },
+  {
+    "index": 558,
+    "nama": "Talonflame",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontalonflame.jpg"
+  },
+  {
+    "index": 559,
+    "nama": "Fearow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfearow.jpg"
+  },
+  {
+    "index": 560,
+    "nama": "Weedle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonweedle.jpg"
+  },
+  {
+    "index": 561,
+    "nama": "Greninja",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongreninja.jpg"
+  },
+  {
+    "index": 562,
+    "nama": "Tangela",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontangela.jpg"
+  },
+  {
+    "index": 563,
+    "nama": "Snover",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsnover.jpg"
+  },
+  {
+    "index": 564,
+    "nama": "Cobalion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncobalion.jpg"
+  },
+  {
+    "index": 565,
+    "nama": "Bellossom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbellossom.jpg"
+  },
+  {
+    "index": 566,
+    "nama": "Doduo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondoduo.jpg"
+  },
+  {
+    "index": 567,
+    "nama": "Torterra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontorterra.jpg"
+  },
+  {
+    "index": 568,
+    "nama": "Purrloin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpurrloin.jpg"
+  },
+  {
+    "index": 569,
+    "nama": "Bastiodon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbastiodon.jpg"
+  },
+  {
+    "index": 570,
+    "nama": "Clefable",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonclefable.jpg"
+  },
+  {
+    "index": 571,
+    "nama": "Machoke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmachoke.jpg"
+  },
+  {
+    "index": 572,
+    "nama": "Bisharp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbisharp.jpg"
+  },
+  {
+    "index": 573,
+    "nama": "Trevenant",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontrevenant.jpg"
+  },
+  {
+    "index": 574,
+    "nama": "Omastar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonomastar.jpg"
+  },
+  {
+    "index": 575,
+    "nama": "Cubone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncubone.jpg"
+  },
+  {
+    "index": 576,
+    "nama": "Exeggcute",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonexeggcute.jpg"
+  },
+  {
+    "index": 577,
+    "nama": "Cosmoem",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncosmoem.jpg"
+  },
+  {
+    "index": 578,
+    "nama": "Mamoswine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmamoswine.jpg"
+  },
+  {
+    "index": 579,
+    "nama": "Nidorina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnidorina.jpg"
+  },
+  {
+    "index": 580,
+    "nama": "Spinarak",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspinarak.jpg"
+  },
+  {
+    "index": 581,
+    "nama": "Marill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmarill.jpg"
+  },
+  {
+    "index": 582,
+    "nama": "Electrike",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonelectrike.jpg"
+  },
+  {
+    "index": 583,
+    "nama": "Celebi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncelebi.jpg"
+  },
+  {
+    "index": 584,
+    "nama": "Exeggutor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonexeggutor.jpg"
+  },
+  {
+    "index": 585,
+    "nama": "Archen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarchen.jpg"
+  },
+  {
+    "index": 586,
+    "nama": "Dusclops",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondusclops.jpg"
+  },
+  {
+    "index": 587,
+    "nama": "Rufflet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrufflet.jpg"
+  },
+  {
+    "index": 588,
+    "nama": "Suicune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsuicune.jpg"
+  },
+  {
+    "index": 589,
+    "nama": "Salazzle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsalazzle.jpg"
+  },
+  {
+    "index": 590,
+    "nama": "Cleffa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncleffa.jpg"
+  },
+  {
+    "index": 591,
+    "nama": "Rockruff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrockruff.jpg"
+  },
+  {
+    "index": 592,
+    "nama": "Sandslash",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsandslash.jpg"
+  },
+  {
+    "index": 593,
+    "nama": "Avalugg",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonavalugg.jpg"
+  },
+  {
+    "index": 594,
+    "nama": "Stufful",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstufful.jpg"
+  },
+  {
+    "index": 595,
+    "nama": "Croagunk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncroagunk.jpg"
+  },
+  {
+    "index": 596,
+    "nama": "Gabite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongabite.jpg"
+  },
+  {
+    "index": 597,
+    "nama": "Blaziken",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonblaziken.jpg"
+  },
+  {
+    "index": 598,
+    "nama": "Cascoon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncascoon.jpg"
+  },
+  {
+    "index": 599,
+    "nama": "Venipede",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvenipede.jpg"
+  },
+  {
+    "index": 600,
+    "nama": "Yanma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonyanma.jpg"
+  },
+  {
+    "index": 601,
+    "nama": "Amoonguss",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonamoonguss.jpg"
+  },
+  {
+    "index": 602,
+    "nama": "Kabutops",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkabutops.jpg"
+  },
+  {
+    "index": 603,
+    "nama": "Samurott",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsamurott.jpg"
+  },
+  {
+    "index": 604,
+    "nama": "Wailmer",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwailmer.jpg"
+  },
+  {
+    "index": 605,
+    "nama": "Ursaring",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonursaring.jpg"
+  },
+  {
+    "index": 606,
+    "nama": "Kecleon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkecleon.jpg"
+  },
+  {
+    "index": 607,
+    "nama": "Cherrim",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncherrim.jpg"
+  },
+  {
+    "index": 608,
+    "nama": "Wishiwashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwishiwashi.jpg"
+  },
+  {
+    "index": 609,
+    "nama": "Gallade",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongallade.jpg"
+  },
+  {
+    "index": 610,
+    "nama": "Hariyama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhariyama.jpg"
+  },
+  {
+    "index": 611,
+    "nama": "Zapdos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzapdos.jpg"
+  },
+  {
+    "index": 612,
+    "nama": "Ferrothorn",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonferrothorn.jpg"
+  },
+  {
+    "index": 613,
+    "nama": "Mienfoo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmienfoo.jpg"
+  },
+  {
+    "index": 614,
+    "nama": "Swampert",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswampert.jpg"
+  },
+  {
+    "index": 615,
+    "nama": "Staraptor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstaraptor.jpg"
+  },
+  {
+    "index": 616,
+    "nama": "Totodile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontotodile.jpg"
+  },
+  {
+    "index": 617,
+    "nama": "Drowzee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondrowzee.jpg"
+  },
+  {
+    "index": 618,
+    "nama": "Golurk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongolurk.jpg"
+  },
+  {
+    "index": 619,
+    "nama": "Wobbuffet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwobbuffet.jpg"
+  },
+  {
+    "index": 620,
+    "nama": "Cosmog",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncosmog.jpg"
+  },
+  {
+    "index": 621,
+    "nama": "Tapu Koko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontapu-koko.jpg"
+  },
+  {
+    "index": 622,
+    "nama": "Dewott",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondewott.jpg"
+  },
+  {
+    "index": 623,
+    "nama": "Minun",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonminun.jpg"
+  },
+  {
+    "index": 624,
+    "nama": "Illumise",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonillumise.jpg"
+  },
+  {
+    "index": 625,
+    "nama": "Duosion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonduosion.jpg"
+  },
+  {
+    "index": 626,
+    "nama": "Seadra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonseadra.jpg"
+  },
+  {
+    "index": 627,
+    "nama": "Weezing",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonweezing.jpg"
+  },
+  {
+    "index": 628,
+    "nama": "Banette",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbanette.jpg"
+  },
+  {
+    "index": 629,
+    "nama": "Deerling",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondeerling.jpg"
+  },
+  {
+    "index": 630,
+    "nama": "Brionne",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbrionne.jpg"
+  },
+  {
+    "index": 631,
+    "nama": "Arcanine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarcanine.jpg"
+  },
+  {
+    "index": 632,
+    "nama": "Dunsparce",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondunsparce.jpg"
+  },
+  {
+    "index": 633,
+    "nama": "Mudbray",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmudbray.jpg"
+  },
+  {
+    "index": 634,
+    "nama": "Gogoat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongogoat.jpg"
+  },
+  {
+    "index": 635,
+    "nama": "Hoppip",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhoppip.jpg"
+  },
+  {
+    "index": 636,
+    "nama": "Goomy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongoomy.jpg"
+  },
+  {
+    "index": 637,
+    "nama": "Mandibuzz",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmandibuzz.jpg"
+  },
+  {
+    "index": 638,
+    "nama": "Bidoof",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbidoof.jpg"
+  },
+  {
+    "index": 639,
+    "nama": "Slaking",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslaking.jpg"
+  },
+  {
+    "index": 640,
+    "nama": "Lairon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlairon.jpg"
+  },
+  {
+    "index": 641,
+    "nama": "Houndoom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhoundoom.jpg"
+  },
+  {
+    "index": 642,
+    "nama": "Elekid",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonelekid.jpg"
+  },
+  {
+    "index": 643,
+    "nama": "Seedot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonseedot.jpg"
+  },
+  {
+    "index": 644,
+    "nama": "Electrode",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonelectrode.jpg"
+  },
+  {
+    "index": 645,
+    "nama": "Skiploom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskiploom.jpg"
+  },
+  {
+    "index": 646,
+    "nama": "Gengar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongengar.jpg"
+  },
+  {
+    "index": 647,
+    "nama": "Meditite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmeditite.jpg"
+  },
+  {
+    "index": 648,
+    "nama": "Ducklett",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonducklett.jpg"
+  },
+  {
+    "index": 649,
+    "nama": "Celesteela",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncelesteela.jpg"
+  },
+  {
+    "index": 650,
+    "nama": "Zoroark",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzoroark.jpg"
+  },
+  {
+    "index": 651,
+    "nama": "Graveler",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongraveler.jpg"
+  },
+  {
+    "index": 652,
+    "nama": "Quilava",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonquilava.jpg"
+  },
+  {
+    "index": 653,
+    "nama": "Oranguru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonoranguru.jpg"
+  },
+  {
+    "index": 654,
+    "nama": "Pangoro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpangoro.jpg"
+  },
+  {
+    "index": 655,
+    "nama": "Walrein",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwalrein.jpg"
+  },
+  {
+    "index": 656,
+    "nama": "Spheal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspheal.jpg"
+  },
+  {
+    "index": 657,
+    "nama": "Tapu Fini",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontapu-fini.jpg"
+  },
+  {
+    "index": 658,
+    "nama": "Buzzwole",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbuzzwole.jpg"
+  },
+  {
+    "index": 659,
+    "nama": "Vulpix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvulpix.jpg"
+  },
+  {
+    "index": 660,
+    "nama": "Smeargle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsmeargle.jpg"
+  },
+  {
+    "index": 661,
+    "nama": "Minior",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonminior.jpg"
+  },
+  {
+    "index": 662,
+    "nama": "Torracat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontorracat.jpg"
+  },
+  {
+    "index": 663,
+    "nama": "Litleo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlitleo.jpg"
+  },
+  {
+    "index": 664,
+    "nama": "Lickilicky",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlickilicky.jpg"
+  },
+  {
+    "index": 665,
+    "nama": "Arbok",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonarbok.jpg"
+  },
+  {
+    "index": 666,
+    "nama": "Toxicroak",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontoxicroak.jpg"
+  },
+  {
+    "index": 667,
+    "nama": "Whismur",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonwhismur.jpg"
+  },
+  {
+    "index": 668,
+    "nama": "Tynamo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontynamo.jpg"
+  },
+  {
+    "index": 669,
+    "nama": "Registeel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonregisteel.jpg"
+  },
+  {
+    "index": 670,
+    "nama": "Gliscor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongliscor.jpg"
+  },
+  {
+    "index": 671,
+    "nama": "Chesnaught",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonchesnaught.jpg"
+  },
+  {
+    "index": 672,
+    "nama": "Scrafty",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonscrafty.jpg"
+  },
+  {
+    "index": 673,
+    "nama": "Spoink",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspoink.jpg"
+  },
+  {
+    "index": 674,
+    "nama": "Groudon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongroudon.jpg"
+  },
+  {
+    "index": 675,
+    "nama": "Zeraora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzeraora.jpg"
+  },
+  {
+    "index": 676,
+    "nama": "Persian",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpersian.jpg"
+  },
+  {
+    "index": 677,
+    "nama": "Crobat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncrobat.jpg"
+  },
+  {
+    "index": 678,
+    "nama": "Palkia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpalkia.jpg"
+  },
+  {
+    "index": 679,
+    "nama": "Gloom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongloom.jpg"
+  },
+  {
+    "index": 680,
+    "nama": "Araquanid",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaraquanid.jpg"
+  },
+  {
+    "index": 681,
+    "nama": "Probopass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonprobopass.jpg"
+  },
+  {
+    "index": 682,
+    "nama": "Cryogonal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncryogonal.jpg"
+  },
+  {
+    "index": 683,
+    "nama": "Kabuto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkabuto.jpg"
+  },
+  {
+    "index": 684,
+    "nama": "Barbaracle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbarbaracle.jpg"
+  },
+  {
+    "index": 685,
+    "nama": "Forretress",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonforretress.jpg"
+  },
+  {
+    "index": 686,
+    "nama": "Slowbro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonslowbro.jpg"
+  },
+  {
+    "index": 687,
+    "nama": "Budew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbudew.jpg"
+  },
+  {
+    "index": 688,
+    "nama": "Alomomola",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonalomomola.jpg"
+  },
+  {
+    "index": 689,
+    "nama": "Shieldon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshieldon.jpg"
+  },
+  {
+    "index": 690,
+    "nama": "Meowth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmeowth.jpg"
+  },
+  {
+    "index": 691,
+    "nama": "Swellow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonswellow.jpg"
+  },
+  {
+    "index": 692,
+    "nama": "Cottonee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncottonee.jpg"
+  },
+  {
+    "index": 693,
+    "nama": "Aron",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaron.jpg"
+  },
+  {
+    "index": 694,
+    "nama": "Togekiss",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontogekiss.jpg"
+  },
+  {
+    "index": 695,
+    "nama": "Tentacruel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontentacruel.jpg"
+  },
+  {
+    "index": 696,
+    "nama": "Solrock",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsolrock.jpg"
+  },
+  {
+    "index": 697,
+    "nama": "Shinx",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshinx.jpg"
+  },
+  {
+    "index": 698,
+    "nama": "Litwick",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlitwick.jpg"
+  },
+  {
+    "index": 699,
+    "nama": "Decidueye",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondecidueye.jpg"
+  },
+  {
+    "index": 700,
+    "nama": "Sewaddle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsewaddle.jpg"
+  },
+  {
+    "index": 701,
+    "nama": "Scizor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonscizor.jpg"
+  },
+  {
+    "index": 702,
+    "nama": "Linoone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlinoone.jpg"
+  },
+  {
+    "index": 703,
+    "nama": "Pyroar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpyroar.jpg"
+  },
+  {
+    "index": 704,
+    "nama": "Dugtrio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondugtrio.jpg"
+  },
+  {
+    "index": 705,
+    "nama": "Kingdra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkingdra.jpg"
+  },
+  {
+    "index": 706,
+    "nama": "Piloswine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpiloswine.jpg"
+  },
+  {
+    "index": 707,
+    "nama": "Mudsdale",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmudsdale.jpg"
+  },
+  {
+    "index": 708,
+    "nama": "Emolga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonemolga.jpg"
+  },
+  {
+    "index": 709,
+    "nama": "Sableye",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsableye.jpg"
+  },
+  {
+    "index": 710,
+    "nama": "Tsareena",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontsareena.jpg"
+  },
+  {
+    "index": 711,
+    "nama": "Machamp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmachamp.jpg"
+  },
+  {
+    "index": 712,
+    "nama": "Glaceon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonglaceon.jpg"
+  },
+  {
+    "index": 713,
+    "nama": "Sandygast",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsandygast.jpg"
+  },
+  {
+    "index": 714,
+    "nama": "Ledyba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonledyba.jpg"
+  },
+  {
+    "index": 715,
+    "nama": "Dragonair",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondragonair.jpg"
+  },
+  {
+    "index": 716,
+    "nama": "Ninjask",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonninjask.jpg"
+  },
+  {
+    "index": 717,
+    "nama": "Kakuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkakuna.jpg"
+  },
+  {
+    "index": 718,
+    "nama": "Weepinbell",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonweepinbell.jpg"
+  },
+  {
+    "index": 719,
+    "nama": "Beartic",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbeartic.jpg"
+  },
+  {
+    "index": 720,
+    "nama": "Phantump",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonphantump.jpg"
+  },
+  {
+    "index": 721,
+    "nama": "Alakazam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonalakazam.jpg"
+  },
+  {
+    "index": 722,
+    "nama": "Nidoqueen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonnidoqueen.jpg"
+  },
+  {
+    "index": 723,
+    "nama": "Vanilluxe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvanilluxe.jpg"
+  },
+  {
+    "index": 724,
+    "nama": "Skrelp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskrelp.jpg"
+  },
+  {
+    "index": 725,
+    "nama": "Krokorok",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkrokorok.jpg"
+  },
+  {
+    "index": 726,
+    "nama": "Pinsir",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpinsir.jpg"
+  },
+  {
+    "index": 727,
+    "nama": "Delcatty",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondelcatty.jpg"
+  },
+  {
+    "index": 728,
+    "nama": "Oshawott",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonoshawott.jpg"
+  },
+  {
+    "index": 729,
+    "nama": "Tropius",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontropius.jpg"
+  },
+  {
+    "index": 730,
+    "nama": "Magikarp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmagikarp.jpg"
+  },
+  {
+    "index": 731,
+    "nama": "Karrablast",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkarrablast.jpg"
+  },
+  {
+    "index": 732,
+    "nama": "Gible",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongible.jpg"
+  },
+  {
+    "index": 733,
+    "nama": "Lanturn",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlanturn.jpg"
+  },
+  {
+    "index": 734,
+    "nama": "Diancie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondiancie.jpg"
+  },
+  {
+    "index": 735,
+    "nama": "Sealeo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsealeo.jpg"
+  },
+  {
+    "index": 736,
+    "nama": "Claydol",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonclaydol.jpg"
+  },
+  {
+    "index": 737,
+    "nama": "Durant",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondurant.jpg"
+  },
+  {
+    "index": 738,
+    "nama": "Conkeldurr",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonconkeldurr.jpg"
+  },
+  {
+    "index": 739,
+    "nama": "Floatzel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfloatzel.jpg"
+  },
+  {
+    "index": 740,
+    "nama": "Grumpig",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongrumpig.jpg"
+  },
+  {
+    "index": 741,
+    "nama": "Palossand",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpalossand.jpg"
+  },
+  {
+    "index": 742,
+    "nama": "Zebstrika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonzebstrika.jpg"
+  },
+  {
+    "index": 743,
+    "nama": "Azelf",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonazelf.jpg"
+  },
+  {
+    "index": 744,
+    "nama": "Yveltal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonyveltal.jpg"
+  },
+  {
+    "index": 745,
+    "nama": "Staravia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonstaravia.jpg"
+  },
+  {
+    "index": 746,
+    "nama": "Reuniclus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonreuniclus.jpg"
+  },
+  {
+    "index": 747,
+    "nama": "Aipom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonaipom.jpg"
+  },
+  {
+    "index": 748,
+    "nama": "Herdier",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonherdier.jpg"
+  },
+  {
+    "index": 749,
+    "nama": "Rapidash",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrapidash.jpg"
+  },
+  {
+    "index": 750,
+    "nama": "Hoopa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhoopa.jpg"
+  },
+  {
+    "index": 751,
+    "nama": "Shellos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonshellos.jpg"
+  },
+  {
+    "index": 752,
+    "nama": "Fletchinder",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfletchinder.jpg"
+  },
+  {
+    "index": 753,
+    "nama": "Sawk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsawk.jpg"
+  },
+  {
+    "index": 754,
+    "nama": "Larvesta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlarvesta.jpg"
+  },
+  {
+    "index": 755,
+    "nama": "Drilbur",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondrilbur.jpg"
+  },
+  {
+    "index": 756,
+    "nama": "Tepig",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontepig.jpg"
+  },
+  {
+    "index": 757,
+    "nama": "Snorlax",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsnorlax.jpg"
+  },
+  {
+    "index": 758,
+    "nama": "Victini",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvictini.jpg"
+  },
+  {
+    "index": 759,
+    "nama": "Oddish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonoddish.jpg"
+  },
+  {
+    "index": 760,
+    "nama": "Metagross",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmetagross.jpg"
+  },
+  {
+    "index": 761,
+    "nama": "Melmetal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmelmetal.jpg"
+  },
+  {
+    "index": 762,
+    "nama": "Thundurus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonthundurus.jpg"
+  },
+  {
+    "index": 763,
+    "nama": "Bronzor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonbronzor.jpg"
+  },
+  {
+    "index": 764,
+    "nama": "Skarmory",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonskarmory.jpg"
+  },
+  {
+    "index": 765,
+    "nama": "Spewpa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonspewpa.jpg"
+  },
+  {
+    "index": 766,
+    "nama": "Mime Jr.",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmime-jr.jpg"
+  },
+  {
+    "index": 767,
+    "nama": "Salamence",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonsalamence.jpg"
+  },
+  {
+    "index": 768,
+    "nama": "Honchkrow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhonchkrow.jpg"
+  },
+  {
+    "index": 769,
+    "nama": "Mesprit",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmesprit.jpg"
+  },
+  {
+    "index": 770,
+    "nama": "Scolipede",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonscolipede.jpg"
+  },
+  {
+    "index": 771,
+    "nama": "Gyarados",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongyarados.jpg"
+  },
+  {
+    "index": 772,
+    "nama": "Ivysaur",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonivysaur.jpg"
+  },
+  {
+    "index": 773,
+    "nama": "Clawitzer",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonclawitzer.jpg"
+  },
+  {
+    "index": 774,
+    "nama": "Kartana",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonkartana.jpg"
+  },
+  {
+    "index": 775,
+    "nama": "Flaaffy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonflaaffy.jpg"
+  },
+  {
+    "index": 776,
+    "nama": "Servine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonservine.jpg"
+  },
+  {
+    "index": 777,
+    "nama": "Delibird",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondelibird.jpg"
+  },
+  {
+    "index": 778,
+    "nama": "Camerupt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemoncamerupt.jpg"
+  },
+  {
+    "index": 779,
+    "nama": "Litten",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlitten.jpg"
+  },
+  {
+    "index": 780,
+    "nama": "Dwebble",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondwebble.jpg"
+  },
+  {
+    "index": 781,
+    "nama": "Politoed",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpolitoed.jpg"
+  },
+  {
+    "index": 782,
+    "nama": "Mantyke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmantyke.jpg"
+  },
+  {
+    "index": 783,
+    "nama": "Mothim",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmothim.jpg"
+  },
+  {
+    "index": 784,
+    "nama": "Drifblim",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemondrifblim.jpg"
+  },
+  {
+    "index": 785,
+    "nama": "Pichu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpichu.jpg"
+  },
+  {
+    "index": 786,
+    "nama": "Tympole",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemontympole.jpg"
+  },
+  {
+    "index": 787,
+    "nama": "Lillipup",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlillipup.jpg"
+  },
+  {
+    "index": 788,
+    "nama": "Larvitar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonlarvitar.jpg"
+  },
+  {
+    "index": 789,
+    "nama": "Rhydon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonrhydon.jpg"
+  },
+  {
+    "index": 790,
+    "nama": "Gothitelle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemongothitelle.jpg"
+  },
+  {
+    "index": 791,
+    "nama": "Morelull",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonmorelull.jpg"
+  },
+  {
+    "index": 792,
+    "nama": "Pachirisu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpachirisu.jpg"
+  },
+  {
+    "index": 793,
+    "nama": "Xatu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonxatu.jpg"
+  },
+  {
+    "index": 794,
+    "nama": "Qwilfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonqwilfish.jpg"
+  },
+  {
+    "index": 795,
+    "nama": "Vanillish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonvanillish.jpg"
+  },
+  {
+    "index": 796,
+    "nama": "Scatterbug",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonscatterbug.jpg"
+  },
+  {
+    "index": 797,
+    "nama": "Poliwhirl",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonpoliwhirl.jpg"
+  },
+  {
+    "index": 798,
+    "nama": "Fomantis",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonfomantis.jpg"
+  },
+  {
+    "index": 799,
+    "nama": "Seismitoad",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonseismitoad.jpg"
+  },
+  {
+    "index": 800,
+    "nama": "Florges",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonflorges.jpg"
+  },
+  {
+    "index": 801,
+    "nama": "Helioptile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonhelioptile.jpg"
+  },
+  {
+    "index": 802,
+    "nama": "Klinklang",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/pokemonklinklang.jpg"
+  }
+]
