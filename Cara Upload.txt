@@ -1,18 +1,1 @@
-E:
-
-Masuk ke Folder:
-cd chan
-
-Copy File:
-Pindahkan file kamu ke folder lib_data secara manual atau lewat terminal.
-
-git status
-
-Add:
-git add lib_data/nama_file_kamu
-
-Commit:
-git commit -m "Tambah file ke ....."
-
-Push:
-git push origin main
+cd E:\SC BOT PRIBADI\database_restapi\chan && git add . && git commit -m "update aaaa" && git push origin main
