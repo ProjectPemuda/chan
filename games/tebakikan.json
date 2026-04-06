@@ -1,0 +1,1302 @@
+[
+  {
+    "index": 1,
+    "nama": "pompano",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pompano.jpg"
+  },
+  {
+    "index": 2,
+    "nama": "sheepshead",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sheepshead.jpg"
+  },
+  {
+    "index": 3,
+    "nama": "spot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spot.jpg"
+  },
+  {
+    "index": 4,
+    "nama": "Pollock",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pollock.jpg"
+  },
+  {
+    "index": 5,
+    "nama": "parrotfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/parrotfish.jpg"
+  },
+  {
+    "index": 6,
+    "nama": "cobia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cobia.jpg"
+  },
+  {
+    "index": 7,
+    "nama": "cleaner fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cleaner-fish.jpg"
+  },
+  {
+    "index": 8,
+    "nama": "Tilefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tilefish.jpg"
+  },
+  {
+    "index": 9,
+    "nama": "whale shark",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/whale-shark.jpg"
+  },
+  {
+    "index": 10,
+    "nama": "hogfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hogfish.jpg"
+  },
+  {
+    "index": 11,
+    "nama": "Bluefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bluefish.jpg"
+  },
+  {
+    "index": 12,
+    "nama": "lizardfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/lizardfish.jpg"
+  },
+  {
+    "index": 13,
+    "nama": "Bowfin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bowfin.jpg"
+  },
+  {
+    "index": 14,
+    "nama": "Conger Eel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/conger-eel.jpg"
+  },
+  {
+    "index": 15,
+    "nama": "Dolly Varden",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/dolly-varden.jpg"
+  },
+  {
+    "index": 16,
+    "nama": "Ray",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/ray.jpg"
+  },
+  {
+    "index": 17,
+    "nama": "speckled trout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/speckled-trout.jpg"
+  },
+  {
+    "index": 18,
+    "nama": "knobbed porgy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/knobbed-porgy.jpg"
+  },
+  {
+    "index": 19,
+    "nama": "Alligator Gar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/alligator-gar.jpg"
+  },
+  {
+    "index": 20,
+    "nama": "Snapper (Mutton)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 21,
+    "nama": "Snapper (Pink)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 22,
+    "nama": "Tigerfish (Goliath)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tigerfish.jpg"
+  },
+  {
+    "index": 23,
+    "nama": "Skate",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/skate.jpg"
+  },
+  {
+    "index": 24,
+    "nama": "Pink Maomao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pink-maomao.jpg"
+  },
+  {
+    "index": 25,
+    "nama": "Coral Trout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/coral-trout.jpg"
+  },
+  {
+    "index": 26,
+    "nama": "Spanish Mackerel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spanish-mackerel.jpg"
+  },
+  {
+    "index": 27,
+    "nama": "Spotted Seatrout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spotted-seatrout.jpg"
+  },
+  {
+    "index": 28,
+    "nama": "bank sea bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bank-sea-bass.jpg"
+  },
+  {
+    "index": 29,
+    "nama": "starfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/starfish.jpg"
+  },
+  {
+    "index": 30,
+    "nama": "angel fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/angel-fish.jpg"
+  },
+  {
+    "index": 31,
+    "nama": "puffers",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/puffers.jpg"
+  },
+  {
+    "index": 32,
+    "nama": "sailfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sailfish.jpg"
+  },
+  {
+    "index": 33,
+    "nama": "Freshwater Drum",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/freshwater-drum.jpg"
+  },
+  {
+    "index": 34,
+    "nama": "Barramundi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/barramundi.jpg"
+  },
+  {
+    "index": 35,
+    "nama": "Spangled Emperor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spangled-emperor.jpg"
+  },
+  {
+    "index": 36,
+    "nama": "Bass (Striped)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/striped-bass.jpg"
+  },
+  {
+    "index": 37,
+    "nama": "gray triggerfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/gray-triggerfish.jpg"
+  },
+  {
+    "index": 38,
+    "nama": "cod",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cod.jpg"
+  },
+  {
+    "index": 39,
+    "nama": "white marlin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/white-marlin.jpg"
+  },
+  {
+    "index": 40,
+    "nama": "scorpion fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/scorpion-fish.jpg"
+  },
+  {
+    "index": 41,
+    "nama": "Clown Knife Fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/clown-knife-fish.jpg"
+  },
+  {
+    "index": 42,
+    "nama": "silver snapper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/silver-snapper.jpg"
+  },
+  {
+    "index": 43,
+    "nama": "damselfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/damselfish.jpg"
+  },
+  {
+    "index": 44,
+    "nama": "weakfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/weakfish.jpg"
+  },
+  {
+    "index": 45,
+    "nama": "Tripletail",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tripletail.jpg"
+  },
+  {
+    "index": 46,
+    "nama": "Scallop",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/scallop.jpg"
+  },
+  {
+    "index": 47,
+    "nama": "blueline tilefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blueline-tilefish.jpg"
+  },
+  {
+    "index": 48,
+    "nama": "Whiting",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/whiting.jpg"
+  },
+  {
+    "index": 49,
+    "nama": "salmon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 50,
+    "nama": "black sea bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/black-sea-bass.jpg"
+  },
+  {
+    "index": 51,
+    "nama": "Tilapia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tilapia.jpg"
+  },
+  {
+    "index": 52,
+    "nama": "Snapper (Mangrove)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 53,
+    "nama": "Triggerfish (Gray)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/triggerfish.jpg"
+  },
+  {
+    "index": 54,
+    "nama": "Wolffish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/wolffish.jpg"
+  },
+  {
+    "index": 55,
+    "nama": "Grouper (Red)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 56,
+    "nama": "hammerhead",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hammerhead.jpg"
+  },
+  {
+    "index": 57,
+    "nama": "mackerel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/mackerel.jpg"
+  },
+  {
+    "index": 58,
+    "nama": "Snapper (Yellowtail)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 59,
+    "nama": "Brook Trout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/brook-trout.jpg"
+  },
+  {
+    "index": 60,
+    "nama": "Shark (Blacktip)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blacktip-shark.jpg"
+  },
+  {
+    "index": 61,
+    "nama": "Salmon (Sockeye)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 62,
+    "nama": "Tuna (Albacore)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/albacore.jpg"
+  },
+  {
+    "index": 63,
+    "nama": "Perch (Silver)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/silver-perch.jpg"
+  },
+  {
+    "index": 64,
+    "nama": "blacktip shark",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blacktip-shark.jpg"
+  },
+  {
+    "index": 65,
+    "nama": "California Corbina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/california-corbina.jpg"
+  },
+  {
+    "index": 66,
+    "nama": "seahorse",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/seahorse.jpg"
+  },
+  {
+    "index": 67,
+    "nama": "bigeye tuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bigeye-tuna.jpg"
+  },
+  {
+    "index": 68,
+    "nama": "drums",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/drums.jpg"
+  },
+  {
+    "index": 69,
+    "nama": "butterflyfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/butterflyfish.jpg"
+  },
+  {
+    "index": 70,
+    "nama": "skipjack tuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/skipjack-tuna.jpg"
+  },
+  {
+    "index": 71,
+    "nama": "haddock",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/haddock.jpg"
+  },
+  {
+    "index": 72,
+    "nama": "bonito",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bonito.jpg"
+  },
+  {
+    "index": 73,
+    "nama": "Rockfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/rockfish.jpg"
+  },
+  {
+    "index": 74,
+    "nama": "boxfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/boxfish.jpg"
+  },
+  {
+    "index": 75,
+    "nama": "northern puffer",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/northern-puffer.jpg"
+  },
+  {
+    "index": 76,
+    "nama": "Sweetlip Emperor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sweetlip-emperor.jpg"
+  },
+  {
+    "index": 77,
+    "nama": "King George Whiting",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/king-george-whiting.jpg"
+  },
+  {
+    "index": 78,
+    "nama": "Lobster",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/lobster.jpg"
+  },
+  {
+    "index": 79,
+    "nama": "Permit",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/permit.jpg"
+  },
+  {
+    "index": 80,
+    "nama": "Threadfin Salmon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/threadfin-salmon.jpg"
+  },
+  {
+    "index": 81,
+    "nama": "red snapper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/red-snapper.jpg"
+  },
+  {
+    "index": 82,
+    "nama": "Cod (Blue)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cod.jpg"
+  },
+  {
+    "index": 83,
+    "nama": "Grouper (Black)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 84,
+    "nama": "Dentex",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/dentex.jpg"
+  },
+  {
+    "index": 85,
+    "nama": "Tigerfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tigerfish.jpg"
+  },
+  {
+    "index": 86,
+    "nama": "squirrelfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/squirrelfish.jpg"
+  },
+  {
+    "index": 87,
+    "nama": "smelt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/smelt.jpg"
+  },
+  {
+    "index": 88,
+    "nama": "spottail pinfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spottail-pinfish.jpg"
+  },
+  {
+    "index": 89,
+    "nama": "Kahawai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/kahawai.jpg"
+  },
+  {
+    "index": 90,
+    "nama": "flatfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/flatfish.jpg"
+  },
+  {
+    "index": 91,
+    "nama": "payara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/payara.jpg"
+  },
+  {
+    "index": 92,
+    "nama": "clownfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/clownfish.jpg"
+  },
+  {
+    "index": 93,
+    "nama": "Walleye",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/walleye.jpg"
+  },
+  {
+    "index": 94,
+    "nama": "Roosterfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/roosterfish.jpg"
+  },
+  {
+    "index": 95,
+    "nama": "Snakehead",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snakehead.jpg"
+  },
+  {
+    "index": 96,
+    "nama": "hickory shad",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hickory-shad.jpg"
+  },
+  {
+    "index": 97,
+    "nama": "Saratoga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/saratoga.jpg"
+  },
+  {
+    "index": 98,
+    "nama": "red grouper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/red-grouper.jpg"
+  },
+  {
+    "index": 99,
+    "nama": "Queenfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/queenfish.jpg"
+  },
+  {
+    "index": 100,
+    "nama": "Marlin (Blue)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blue-marlin.jpg"
+  },
+  {
+    "index": 101,
+    "nama": "Wahoo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/wahoo.jpg"
+  },
+  {
+    "index": 102,
+    "nama": "dolphin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/dolphin.jpg"
+  },
+  {
+    "index": 103,
+    "nama": "albacore",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/albacore.jpg"
+  },
+  {
+    "index": 104,
+    "nama": "Flathead",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/flathead.jpg"
+  },
+  {
+    "index": 105,
+    "nama": "Grouper (Gag)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 106,
+    "nama": "Lake Trout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/lake-trout.jpg"
+  },
+  {
+    "index": 107,
+    "nama": "Rainbow Runner",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/rainbow-runner.jpg"
+  },
+  {
+    "index": 108,
+    "nama": "Samson Fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/samson-fish.jpg"
+  },
+  {
+    "index": 109,
+    "nama": "Tailor",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tailor.jpg"
+  },
+  {
+    "index": 110,
+    "nama": "Tarpon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tarpon.jpg"
+  },
+  {
+    "index": 111,
+    "nama": "Red Bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/red-bass.jpg"
+  },
+  {
+    "index": 112,
+    "nama": "Shrimp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/shrimp.jpg"
+  },
+  {
+    "index": 113,
+    "nama": "Brown Trout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/brown-trout.jpg"
+  },
+  {
+    "index": 114,
+    "nama": "Snook",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snook.jpg"
+  },
+  {
+    "index": 115,
+    "nama": "jumping mullet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/jumping-mullet.jpg"
+  },
+  {
+    "index": 116,
+    "nama": "Musselcracker",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/musselcracker.jpg"
+  },
+  {
+    "index": 117,
+    "nama": "Milkfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/milkfish.jpg"
+  },
+  {
+    "index": 118,
+    "nama": "mako shark",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/mako-shark.jpg"
+  },
+  {
+    "index": 119,
+    "nama": "Sauger",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sauger.jpg"
+  },
+  {
+    "index": 120,
+    "nama": "Little Tunny (False Albacore)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/little-tunny.jpg"
+  },
+  {
+    "index": 121,
+    "nama": "Sturgeon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sturgeon.jpg"
+  },
+  {
+    "index": 122,
+    "nama": "mandarin fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/mandarin-fish.jpg"
+  },
+  {
+    "index": 123,
+    "nama": "King Mackerel (Kingfish)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/king-mackerel.jpg"
+  },
+  {
+    "index": 124,
+    "nama": "barracuda",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/barracuda.jpg"
+  },
+  {
+    "index": 125,
+    "nama": "Pearl Perch",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pearl-perch.jpg"
+  },
+  {
+    "index": 126,
+    "nama": "Kob",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/kob.jpg"
+  },
+  {
+    "index": 127,
+    "nama": "Snapper (Red Emperor)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 128,
+    "nama": "Salmon (Chum)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 129,
+    "nama": "Tuna (Bigeye)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bigeye-tuna.jpg"
+  },
+  {
+    "index": 130,
+    "nama": "Salmon (Atlantic)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 131,
+    "nama": "gray trout",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/gray-trout.jpg"
+  },
+  {
+    "index": 132,
+    "nama": "striped bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/striped-bass.jpg"
+  },
+  {
+    "index": 133,
+    "nama": "Calico Bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/calico-bass.jpg"
+  },
+  {
+    "index": 134,
+    "nama": "Catfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/catfish.jpg"
+  },
+  {
+    "index": 135,
+    "nama": "bluefin tuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bluefin-tuna.jpg"
+  },
+  {
+    "index": 136,
+    "nama": "flying fish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/flying-fish.jpg"
+  },
+  {
+    "index": 137,
+    "nama": "Dhufish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/dhufish.jpg"
+  },
+  {
+    "index": 138,
+    "nama": "Tarakihi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tarakihi.jpg"
+  },
+  {
+    "index": 139,
+    "nama": "Grouper (Dusky)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 140,
+    "nama": "Barracuda (Great)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/barracuda.jpg"
+  },
+  {
+    "index": 141,
+    "nama": "Yellowtail Amberjack",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/yellowtail-amberjack.jpg"
+  },
+  {
+    "index": 142,
+    "nama": "gag grouper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/gag-grouper.jpg"
+  },
+  {
+    "index": 143,
+    "nama": "menhaden",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/menhaden.jpg"
+  },
+  {
+    "index": 144,
+    "nama": "paddlefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/paddlefish.jpg"
+  },
+  {
+    "index": 145,
+    "nama": "croaker",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/croaker.jpg"
+  },
+  {
+    "index": 146,
+    "nama": "Hybrid Striped Bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hybrid-striped-bass.jpg"
+  },
+  {
+    "index": 147,
+    "nama": "Morwong",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/morwong.jpg"
+  },
+  {
+    "index": 148,
+    "nama": "pinfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pinfish.jpg"
+  },
+  {
+    "index": 149,
+    "nama": "surgeonfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/surgeonfish.jpg"
+  },
+  {
+    "index": 150,
+    "nama": "searobin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/searobin.jpg"
+  },
+  {
+    "index": 151,
+    "nama": "Bluenose Warehou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bluenose-warehou.jpg"
+  },
+  {
+    "index": 152,
+    "nama": "goatfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/goatfish.jpg"
+  },
+  {
+    "index": 153,
+    "nama": "Gurnard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/gurnard.jpg"
+  },
+  {
+    "index": 154,
+    "nama": "blue marlin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blue-marlin.jpg"
+  },
+  {
+    "index": 155,
+    "nama": "butterfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/butterfish.jpg"
+  },
+  {
+    "index": 156,
+    "nama": "stingrays",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/stingrays.jpg"
+  },
+  {
+    "index": 157,
+    "nama": "Flounder",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/flounder.jpg"
+  },
+  {
+    "index": 158,
+    "nama": "Hapuka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hapuka.jpg"
+  },
+  {
+    "index": 159,
+    "nama": "Snapper (Lane)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 160,
+    "nama": "Marlin (White)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/white-marlin.jpg"
+  },
+  {
+    "index": 161,
+    "nama": "red drum",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/red-drum.jpg"
+  },
+  {
+    "index": 162,
+    "nama": "plecostomus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/plecostomus.jpg"
+  },
+  {
+    "index": 163,
+    "nama": "Lingcod",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/lingcod.jpg"
+  },
+  {
+    "index": 164,
+    "nama": "Crayfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/crayfish.jpg"
+  },
+  {
+    "index": 165,
+    "nama": "Golden Dorado",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/golden-dorado.jpg"
+  },
+  {
+    "index": 166,
+    "nama": "ocean sunfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/ocean-sunfish.jpg"
+  },
+  {
+    "index": 167,
+    "nama": "Needlefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/needlefish.jpg"
+  },
+  {
+    "index": 168,
+    "nama": "snapper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 169,
+    "nama": "oarfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/oarfish.jpg"
+  },
+  {
+    "index": 170,
+    "nama": "Sunfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sunfish.jpg"
+  },
+  {
+    "index": 171,
+    "nama": "speckled hind",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/speckled-hind.jpg"
+  },
+  {
+    "index": 172,
+    "nama": "black drum",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/black-drum.jpg"
+  },
+  {
+    "index": 173,
+    "nama": "banded sea krait",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/banded-sea-krait.jpg"
+  },
+  {
+    "index": 174,
+    "nama": "Bonefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bonefish.jpg"
+  },
+  {
+    "index": 175,
+    "nama": "Leatherjacket",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/leatherjacket.jpg"
+  },
+  {
+    "index": 176,
+    "nama": "Snapper (Red)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 177,
+    "nama": "white grunt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/white-grunt.jpg"
+  },
+  {
+    "index": 178,
+    "nama": "halibut",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/halibut.jpg"
+  },
+  {
+    "index": 179,
+    "nama": "cardinalfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cardinalfish.jpg"
+  },
+  {
+    "index": 180,
+    "nama": "Spadefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spadefish.jpg"
+  },
+  {
+    "index": 181,
+    "nama": "Common Pandora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/common-pandora.jpg"
+  },
+  {
+    "index": 182,
+    "nama": "Black Jewfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/black-jewfish.jpg"
+  },
+  {
+    "index": 183,
+    "nama": "Redfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/redfish.jpg"
+  },
+  {
+    "index": 184,
+    "nama": "stonefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/stonefish.jpg"
+  },
+  {
+    "index": 185,
+    "nama": "triggerfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/triggerfish.jpg"
+  },
+  {
+    "index": 186,
+    "nama": "Clam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/clam.jpg"
+  },
+  {
+    "index": 187,
+    "nama": "Arapaima",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/arapaima.jpg"
+  },
+  {
+    "index": 188,
+    "nama": "Grunt",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grunt.jpg"
+  },
+  {
+    "index": 189,
+    "nama": "Salmon (Chinook)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 190,
+    "nama": "Grouper (Snowy)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 191,
+    "nama": "Barracuda (Pacific)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/barracuda.jpg"
+  },
+  {
+    "index": 192,
+    "nama": "king mackerel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/king-mackerel.jpg"
+  },
+  {
+    "index": 193,
+    "nama": "swordfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/swordfish.jpg"
+  },
+  {
+    "index": 194,
+    "nama": "Herring",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/herring.jpg"
+  },
+  {
+    "index": 195,
+    "nama": "scup",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/scup.jpg"
+  },
+  {
+    "index": 196,
+    "nama": "amberjack",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/amberjack.jpg"
+  },
+  {
+    "index": 197,
+    "nama": "sea mullet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sea-mullet.jpg"
+  },
+  {
+    "index": 198,
+    "nama": "Tuna (Bluefin)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bluefin-tuna.jpg"
+  },
+  {
+    "index": 199,
+    "nama": "Shark (Tiger)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tiger-shark.jpg"
+  },
+  {
+    "index": 200,
+    "nama": "vermillion snapper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/vermillion-snapper.jpg"
+  },
+  {
+    "index": 201,
+    "nama": "basselets",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/basselets.jpg"
+  },
+  {
+    "index": 202,
+    "nama": "unicornfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/unicornfish.jpg"
+  },
+  {
+    "index": 203,
+    "nama": "atlantic bonito",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/atlantic-bonito.jpg"
+  },
+  {
+    "index": 204,
+    "nama": "Snapper (Vermilion)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 205,
+    "nama": "oyster toadfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/oyster-toadfish.jpg"
+  },
+  {
+    "index": 206,
+    "nama": "pufferfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pufferfish.jpg"
+  },
+  {
+    "index": 207,
+    "nama": "Salmon (Australian)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 208,
+    "nama": "Grouper (Broomtail)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 209,
+    "nama": "Shark (Hammerhead)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hammerhead.jpg"
+  },
+  {
+    "index": 210,
+    "nama": "Common Ling",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/common-ling.jpg"
+  },
+  {
+    "index": 211,
+    "nama": "Dogfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/dogfish.jpg"
+  },
+  {
+    "index": 212,
+    "nama": "Grouper (Goliath)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 213,
+    "nama": "Tuna (Skipjack)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/skipjack-tuna.jpg"
+  },
+  {
+    "index": 214,
+    "nama": "Tuna (Blackfin)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blackfin-tuna.jpg"
+  },
+  {
+    "index": 215,
+    "nama": "Tautog",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tautog.jpg"
+  },
+  {
+    "index": 216,
+    "nama": "hawkfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/hawkfish.jpg"
+  },
+  {
+    "index": 217,
+    "nama": "Carp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/carp.jpg"
+  },
+  {
+    "index": 218,
+    "nama": "Papuan Black Bass",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/papuan-black-bass.jpg"
+  },
+  {
+    "index": 219,
+    "nama": "Grouper (Scamp)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 220,
+    "nama": "scamp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/scamp.jpg"
+  },
+  {
+    "index": 221,
+    "nama": "Ladyfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/ladyfish.jpg"
+  },
+  {
+    "index": 222,
+    "nama": "Snapper (Mullet)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snapper.jpg"
+  },
+  {
+    "index": 223,
+    "nama": "pigfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/pigfish.jpg"
+  },
+  {
+    "index": 224,
+    "nama": "California Sheephead",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/california-sheephead.jpg"
+  },
+  {
+    "index": 225,
+    "nama": "Bullhead",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/bullhead.jpg"
+  },
+  {
+    "index": 226,
+    "nama": "grouper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/grouper.jpg"
+  },
+  {
+    "index": 227,
+    "nama": "blackfin tuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blackfin-tuna.jpg"
+  },
+  {
+    "index": 228,
+    "nama": "cusk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cusk.jpg"
+  },
+  {
+    "index": 229,
+    "nama": "gnomefish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/gnomefish.jpg"
+  },
+  {
+    "index": 230,
+    "nama": "Mackerel (Atlantic)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/mackerel.jpg"
+  },
+  {
+    "index": 231,
+    "nama": "Cod (Breaksea)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/cod.jpg"
+  },
+  {
+    "index": 232,
+    "nama": "Tuna (Yellowfin)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/yellowfin-tuna.jpg"
+  },
+  {
+    "index": 233,
+    "nama": "Sculpin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/sculpin.jpg"
+  },
+  {
+    "index": 234,
+    "nama": "Burbot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/burbot.jpg"
+  },
+  {
+    "index": 235,
+    "nama": "Crab",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/crab.jpg"
+  },
+  {
+    "index": 236,
+    "nama": "John Dory",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/john-dory.jpg"
+  },
+  {
+    "index": 237,
+    "nama": "Spanish Mackerel (Narrow-barred)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/spanish-mackerel.jpg"
+  },
+  {
+    "index": 238,
+    "nama": "Murray Cod",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/murray-cod.jpg"
+  },
+  {
+    "index": 239,
+    "nama": "silver perch",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/silver-perch.jpg"
+  },
+  {
+    "index": 240,
+    "nama": "Garfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/garfish.jpg"
+  },
+  {
+    "index": 241,
+    "nama": "Indian Threadfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/indian-threadfish.jpg"
+  },
+  {
+    "index": 242,
+    "nama": "tiger shark",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/tiger-shark.jpg"
+  },
+  {
+    "index": 243,
+    "nama": "Salmon (Pink)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/salmon.jpg"
+  },
+  {
+    "index": 244,
+    "nama": "yellowfin tuna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/yellowfin-tuna.jpg"
+  },
+  {
+    "index": 245,
+    "nama": "Asp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/asp.jpg"
+  },
+  {
+    "index": 246,
+    "nama": "Shad",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/shad.jpg"
+  },
+  {
+    "index": 247,
+    "nama": "Scup (Porgy)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/scup.jpg"
+  },
+  {
+    "index": 248,
+    "nama": "Nannygai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/nannygai.jpg"
+  },
+  {
+    "index": 249,
+    "nama": "rabbitfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/rabbitfish.jpg"
+  },
+  {
+    "index": 250,
+    "nama": "Jack Crevalle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/jack-crevalle.jpg"
+  },
+  {
+    "index": 251,
+    "nama": "Shark (Mako)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/mako-shark.jpg"
+  },
+  {
+    "index": 252,
+    "nama": "Crappie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/crappie.jpg"
+  },
+  {
+    "index": 253,
+    "nama": "blobfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/blobfish.jpg"
+  },
+  {
+    "index": 254,
+    "nama": "yellowedge grouper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/yellowedge-grouper.jpg"
+  },
+  {
+    "index": 255,
+    "nama": "yellowtail snapper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/yellowtail-snapper.jpg"
+  },
+  {
+    "index": 256,
+    "nama": "Dolphin (Mahi Mahi)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/dolphin.jpg"
+  },
+  {
+    "index": 257,
+    "nama": "Snoek",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/snoek.jpg"
+  },
+  {
+    "index": 258,
+    "nama": "batfish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/batfish.jpg"
+  },
+  {
+    "index": 259,
+    "nama": "little tunny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/little-tunny.jpg"
+  },
+  {
+    "index": 260,
+    "nama": "stingray",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebak_ikan/stingray.jpg"
+  }
+]
