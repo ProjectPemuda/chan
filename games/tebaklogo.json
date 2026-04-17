@@ -1,0 +1,1106 @@
+[
+  {
+    "index": "217",
+    "type": "gambar",
+    "deskripsi": "Sebuah pasar online untuk penginapan, terutama homestay untuk persewaan liburan, dan kegiatan pariwisata.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Airbnb.png",
+    "answerType": "text",
+    "jawaban": "Airbnb"
+  },
+  {
+    "index": "5",
+    "type": "gambar",
+    "deskripsi": "Sebuah rantai restoran cepat saji hamburger multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Burger-King.png",
+    "answerType": "text",
+    "jawaban": "Burger King"
+  },
+  {
+    "index": "326",
+    "type": "gambar",
+    "deskripsi": "Perusahaan hiburan Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Marvel.png",
+    "answerType": "text",
+    "jawaban": "Marvel"
+  },
+  {
+    "index": "425",
+    "type": "gambar",
+    "deskripsi": "Produsen otomotif multinasional Korea Selatan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Hyundai.png",
+    "answerType": "text",
+    "jawaban": "Hyundai"
+  },
+  {
+    "index": "216",
+    "type": "gambar",
+    "deskripsi": "Perusahaan peralatan dan jasa teknologi informasi dan komunikasi multinasional Jepang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Fujitsu.png",
+    "answerType": "text",
+    "jawaban": "Fujitsu"
+  },
+  {
+    "index": "41",
+    "type": "gambar",
+    "deskripsi": "browser andalan Google",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Chrome.png",
+    "answerType": "text",
+    "jawaban": "Chrome"
+  },
+  {
+    "index": "302",
+    "type": "gambar",
+    "deskripsi": "Perusahaan elektronik konsumen dan video game multinasional Jepang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Nintendo.png",
+    "answerType": "text",
+    "jawaban": "Nintendo"
+  },
+  {
+    "index": "412",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil Prancis.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Peugeot.png",
+    "answerType": "text",
+    "jawaban": "Peugeot"
+  },
+  {
+    "index": "324",
+    "type": "gambar",
+    "deskripsi": "Apakah studio film Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Century-Fox.png",
+    "answerType": "text",
+    "jawaban": "Century Fox"
+  },
+  {
+    "index": "33",
+    "type": "gambar",
+    "deskripsi": "Minuman ringan berkarbonasi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Pepsi.png",
+    "answerType": "text",
+    "jawaban": "Pepsi"
+  },
+  {
+    "index": "403",
+    "type": "gambar",
+    "deskripsi": "Sebuah divisi mobil Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Chevrolet.png",
+    "answerType": "text",
+    "jawaban": "Chevrolet"
+  },
+  {
+    "index": "35",
+    "type": "gambar",
+    "deskripsi": "Rantai kedai kopi dan tempat pemanggangan kopi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Starbucks.png",
+    "answerType": "text",
+    "jawaban": "Starbucks"
+  },
+  {
+    "index": "221",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Microsoft.png",
+    "answerType": "text",
+    "jawaban": "Microsoft"
+  },
+  {
+    "index": "308",
+    "type": "gambar",
+    "deskripsi": "Sebuah permainan papan yang saat ini diterbitkan oleh Hasbro",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Monopoly.png",
+    "answerType": "text",
+    "jawaban": "Monopoly"
+  },
+  {
+    "index": "40",
+    "type": "gambar",
+    "deskripsi": "perangkat lunak yang dimilikinya adalah pdf reader, Photoshop, Lightroom dll.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Adobe.png",
+    "answerType": "text",
+    "jawaban": "Adobe"
+  },
+  {
+    "index": "6",
+    "type": "gambar",
+    "deskripsi": "Perusahaan Vermont yang memproduksi es krim, yogurt beku, dan sorbet",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Ben-Jerrys.png",
+    "answerType": "text",
+    "jawaban": "Ben & Jerry's"
+  },
+  {
+    "index": "108",
+    "type": "gambar",
+    "deskripsi": "Perusahaan rumah mode dan barang mewah Prancis",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Louis-Vuitton.png",
+    "answerType": "text",
+    "jawaban": "Louis Vuitton"
+  },
+  {
+    "index": "230",
+    "type": "gambar",
+    "deskripsi": "Produsen produk audio konsumen Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Beats.png",
+    "answerType": "text",
+    "jawaban": "Beats"
+  },
+  {
+    "index": "1",
+    "type": "gambar",
+    "deskripsi": "Air mineral merek",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Evian.png",
+    "answerType": "text",
+    "jawaban": "Evian"
+  },
+  {
+    "index": "39",
+    "type": "gambar",
+    "deskripsi": "sistem operasi robot hijau milik google yang biasa digunakan pada Smartphone",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Android.png",
+    "answerType": "text",
+    "jawaban": "Android"
+  },
+  {
+    "index": "29",
+    "type": "gambar",
+    "deskripsi": "Sebuah jaringan restoran pizza multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Domino-Pizza.png",
+    "answerType": "text",
+    "jawaban": "Domino Pizza"
+  },
+  {
+    "index": "231",
+    "type": "gambar",
+    "deskripsi": "elektronik multinasional Cina",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Xiaomi.png",
+    "answerType": "text",
+    "jawaban": "Xiaomi"
+  },
+  {
+    "index": "323",
+    "type": "gambar",
+    "deskripsi": "Film petualangan fiksi ilmiah Amerika Serikat tahun 2015",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Jurassic-World.png",
+    "answerType": "text",
+    "jawaban": "Jurassic World"
+  },
+  {
+    "index": "45",
+    "type": "gambar",
+    "deskripsi": "cafe/Perusahaan kopi paling terkenal di dunia",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Starbucks-1.png",
+    "answerType": "text",
+    "jawaban": "Starbucks"
+  },
+  {
+    "index": "304",
+    "type": "gambar",
+    "deskripsi": "Sebuah waralaba media yang dibuat oleh Robert Kirkman",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/The-Walking-Dead.png",
+    "answerType": "text",
+    "jawaban": "The Walking Dead"
+  },
+  {
+    "index": "418",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil Jerman",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Audi.png",
+    "answerType": "text",
+    "jawaban": "Audi"
+  },
+  {
+    "index": "438",
+    "type": "gambar",
+    "deskripsi": "Perusahaan manufaktur multinasional Swedia",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Volvo.png",
+    "answerType": "text",
+    "jawaban": "Volvo"
+  },
+  {
+    "index": "413",
+    "type": "gambar",
+    "deskripsi": "Sekelompok perusahaan multinasional Jepang yang otonom di berbagai industri.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Mitsubishi.png",
+    "answerType": "text",
+    "jawaban": "Mitsubishi"
+  },
+  {
+    "index": "19",
+    "type": "gambar",
+    "deskripsi": "Sebuah merek cokelat batangan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Snickers.png",
+    "answerType": "text",
+    "jawaban": "Snickers"
+  },
+  {
+    "index": "330",
+    "type": "gambar",
+    "deskripsi": "Sebuah waralaba media opera ruang angkasa epik Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Star-Wars.png",
+    "answerType": "text",
+    "jawaban": "Star Wars"
+  },
+  {
+    "index": "215",
+    "type": "gambar",
+    "deskripsi": "Perusahaan elektronik dan kebugaran konsumen Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Fitbit.png",
+    "answerType": "text",
+    "jawaban": "Fitbit"
+  },
+  {
+    "index": "415",
+    "type": "gambar",
+    "deskripsi": "Produsen independen Inggris untuk mobil sport mewah dan grand tourer",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Aston-Martin.png",
+    "answerType": "text",
+    "jawaban": "Aston Martin"
+  },
+  {
+    "index": "21",
+    "type": "gambar",
+    "deskripsi": "Sebuah merek keripik tortilla rasa Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Doritos.png",
+    "answerType": "text",
+    "jawaban": "Doritos"
+  },
+  {
+    "index": "232",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Uber.png",
+    "answerType": "text",
+    "jawaban": "Uber"
+  },
+  {
+    "index": "121",
+    "type": "gambar",
+    "deskripsi": "Perusahaan alas kaki dan pakaian Inggris-Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Reebok.png",
+    "answerType": "text",
+    "jawaban": "Reebok"
+  },
+  {
+    "index": "405",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil Jerman yang mengkhususkan diri pada mobil sport, SUV, dan sedan performa tinggi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Porsche.png",
+    "answerType": "text",
+    "jawaban": "Porsche"
+  },
+  {
+    "index": "337",
+    "type": "gambar",
+    "deskripsi": "Sederetan mainan konstruksi plastik",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Lego.png",
+    "answerType": "text",
+    "jawaban": "Lego"
+  },
+  {
+    "index": "238",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Google.png",
+    "answerType": "text",
+    "jawaban": "Google"
+  },
+  {
+    "index": "38",
+    "type": "gambar",
+    "deskripsi": "Sebuah jaringan restoran Amerika dan waralaba internasional",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Pizza-Hut.png",
+    "answerType": "text",
+    "jawaban": "Pizza Hut"
+  },
+  {
+    "index": "236",
+    "type": "gambar",
+    "deskripsi": "Layanan file hosting yang dioperasikan oleh perusahaan Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Dropbox.png",
+    "answerType": "text",
+    "jawaban": "Dropbox"
+  },
+  {
+    "index": "116",
+    "type": "gambar",
+    "deskripsi": "Produsen barang mewah Prancis",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Hermes-Paris.png",
+    "answerType": "text",
+    "jawaban": "Hermes Paris"
+  },
+  {
+    "index": "237",
+    "type": "gambar",
+    "deskripsi": "Layanan media sosial dan jejaring sosial online Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Facebook.png",
+    "answerType": "text",
+    "jawaban": "Facebook"
+  },
+  {
+    "index": "202",
+    "type": "gambar",
+    "deskripsi": "Keluarga teknologi kompresi audio",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Dolby.png",
+    "answerType": "text",
+    "jawaban": "Dolby"
+  },
+  {
+    "index": "201",
+    "type": "gambar",
+    "deskripsi": "Perusahaan teknologi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Apple.png",
+    "answerType": "text",
+    "jawaban": "Apple"
+  },
+  {
+    "index": "329",
+    "type": "gambar",
+    "deskripsi": "Pengembang dan penerbit game video multinasional Jepang yang berkantor pusat di Shinagawa",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Sega.png",
+    "answerType": "text",
+    "jawaban": "Sega"
+  },
+  {
+    "index": "426",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil sport performa tinggi Swedia",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Koenigsegg.png",
+    "answerType": "text",
+    "jawaban": "Koenigsegg"
+  },
+  {
+    "index": "420",
+    "type": "gambar",
+    "deskripsi": "Sebuah merek mobil Amerika dan sebuah divisi dari Stellantis",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Dodge.png",
+    "answerType": "text",
+    "jawaban": "Dodge"
+  },
+  {
+    "index": "208",
+    "type": "gambar",
+    "deskripsi": "Perusahaan perangkat lunak komputer multinasional Amerika.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Adobe-1.png",
+    "answerType": "text",
+    "jawaban": "Adobe"
+  },
+  {
+    "index": "118",
+    "type": "gambar",
+    "deskripsi": "Merek pakaian olahraga Italia berkualitas tinggi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Kappa.png",
+    "answerType": "text",
+    "jawaban": "Kappa"
+  },
+  {
+    "index": "303",
+    "type": "gambar",
+    "deskripsi": "Sebuah studio film dan taman hiburan di area San Fernando Valley di Los Angeles County, California.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Universal-Studios.png",
+    "answerType": "text",
+    "jawaban": "Universal Studios"
+  },
+  {
+    "index": "321",
+    "type": "gambar",
+    "deskripsi": "Layanan video langganan Amerika atas permintaan streaming",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/HBO-Max.png",
+    "answerType": "text",
+    "jawaban": "HBO Max"
+  },
+  {
+    "index": "126",
+    "type": "gambar",
+    "deskripsi": "Produsen pakaian olahraga yang mendesain sepatu dan pakaian",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Fila.png",
+    "answerType": "text",
+    "jawaban": "Fila"
+  },
+  {
+    "index": "20",
+    "type": "gambar",
+    "deskripsi": "Minuman ringan rasa lemon dan jeruk nipis yang tidak berwarna",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Sprite.png",
+    "answerType": "text",
+    "jawaban": "Sprite"
+  },
+  {
+    "index": "234",
+    "type": "gambar",
+    "deskripsi": "Layanan microblogging dan jejaring sosial Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Twitter.png",
+    "answerType": "text",
+    "jawaban": "Twitter"
+  },
+  {
+    "index": "24",
+    "type": "gambar",
+    "deskripsi": "Merek Varietas Keripik Kentang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Lays.png",
+    "answerType": "text",
+    "jawaban": "Lays"
+  },
+  {
+    "index": "409",
+    "type": "gambar",
+    "deskripsi": "Merupakan merek kendaraan mewah Land Rover",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Jaguar.png",
+    "answerType": "text",
+    "jawaban": "Jaguar"
+  },
+  {
+    "index": "12",
+    "type": "gambar",
+    "deskripsi": "Sebuah jaringan restoran cepat saji yang berbasis di Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Taco-Bell.png",
+    "answerType": "text",
+    "jawaban": "Taco Bell"
+  },
+  {
+    "index": "223",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Nvidia.png",
+    "answerType": "text",
+    "jawaban": "Nvidia"
+  },
+  {
+    "index": "306",
+    "type": "gambar",
+    "deskripsi": "Serial televisi drama fantasi Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Game-of-Thrones.png",
+    "answerType": "text",
+    "jawaban": "Game of Thrones"
+  },
+  {
+    "index": "424",
+    "type": "gambar",
+    "deskripsi": "Produsen konglomerat publik multinasional Jepang untuk mobil, sepeda motor, dan peralatan listrik",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Honda.png",
+    "answerType": "text",
+    "jawaban": "Honda"
+  },
+  {
+    "index": "416",
+    "type": "gambar",
+    "deskripsi": "Produsen dan pemasar mobil mewah dan SUV Inggris",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Bentley.png",
+    "answerType": "text",
+    "jawaban": "Bentley"
+  },
+  {
+    "index": "18",
+    "type": "gambar",
+    "deskripsi": "Minuman energi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Red-Bull.png",
+    "answerType": "text",
+    "jawaban": "Red Bull"
+  },
+  {
+    "index": "435",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil Spanyol",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Seat.png",
+    "answerType": "text",
+    "jawaban": "Seat"
+  },
+  {
+    "index": "11",
+    "type": "gambar",
+    "deskripsi": "Sebuah kue wafer berlapis cokelat",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/KitKat.png",
+    "answerType": "text",
+    "jawaban": "KitKat"
+  },
+  {
+    "index": "4",
+    "type": "gambar",
+    "deskripsi": "Bumbu, Sop, dan Mie Merk Internasional",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Maggi.png",
+    "answerType": "text",
+    "jawaban": "Maggi"
+  },
+  {
+    "index": "114",
+    "type": "gambar",
+    "deskripsi": "Perusahaan yang memproduksi dan mendistribusikan pakaian luar, pakaian olahraga, dan alas kaki",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Columbia.png",
+    "answerType": "text",
+    "jawaban": "Columbia"
+  },
+  {
+    "index": "117",
+    "type": "gambar",
+    "deskripsi": "Sebuah toko skateboard dan merek pakaian yang berbasis di London",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Palace.png",
+    "answerType": "text",
+    "jawaban": "Palace"
+  },
+  {
+    "index": "421",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil sport mewah Italia yang berbasis di Maranello, Italia.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Ferrari.png",
+    "answerType": "text",
+    "jawaban": "Ferrari"
+  },
+  {
+    "index": "37",
+    "type": "gambar",
+    "deskripsi": "Minuman energi yang diperkenalkan oleh Hansen Natural Company",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Monster.png",
+    "answerType": "text",
+    "jawaban": "Monster"
+  },
+  {
+    "index": "432",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil Jerman",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Opel.png",
+    "answerType": "text",
+    "jawaban": "Opel"
+  },
+  {
+    "index": "32",
+    "type": "gambar",
+    "deskripsi": "Bir lager pucat dengan alkohol 5%",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/heineken.png",
+    "answerType": "text",
+    "jawaban": "heineken"
+  },
+  {
+    "index": "317",
+    "type": "gambar",
+    "deskripsi": "Penerbit game video Amerika yang berbasis di Santa Monica, California",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Activision.png",
+    "answerType": "text",
+    "jawaban": "Activision"
+  },
+  {
+    "index": "107",
+    "type": "gambar",
+    "deskripsi": "Produsen pakaian Amerika, yang mengkhususkan diri dalam pakaian olahraga",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Champion.png",
+    "answerType": "text",
+    "jawaban": "Champion"
+  },
+  {
+    "index": "222",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan telekomunikasi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Motorola.png",
+    "answerType": "text",
+    "jawaban": "Motorola"
+  },
+  {
+    "index": "410",
+    "type": "gambar",
+    "deskripsi": "Pabrik kendaraan bermotor Jerman yang didirikan pada tahun 1937",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/VolksWagen.png",
+    "answerType": "text",
+    "jawaban": "VolksWagen"
+  },
+  {
+    "index": "209",
+    "type": "gambar",
+    "deskripsi": "Perangkat seluler merek Prancis/Cina",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Alcatel.png",
+    "answerType": "text",
+    "jawaban": "Alcatel"
+  },
+  {
+    "index": "203",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan konglomerat multinasional Belanda",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Philips.png",
+    "answerType": "text",
+    "jawaban": "Philips"
+  },
+  {
+    "index": "46",
+    "type": "gambar",
+    "deskripsi": "Salah satu konsol game terbaik",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Xbox.png",
+    "answerType": "text",
+    "jawaban": "Xbox"
+  },
+  {
+    "index": "220",
+    "type": "gambar",
+    "deskripsi": "Perusahaan konglomerat multinasional Korea Selatan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/LG.png",
+    "answerType": "text",
+    "jawaban": "LG"
+  },
+  {
+    "index": "414",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan multinasional Jepang yang berkantor pusat di Minami-ku, Hamamatsu",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Suzuki.png",
+    "answerType": "text",
+    "jawaban": "Suzuki"
+  },
+  {
+    "index": "229",
+    "type": "gambar",
+    "deskripsi": "Perusahaan jaringan dan telekomunikasi multinasional Swedia",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Ericsson.png",
+    "answerType": "text",
+    "jawaban": "Ericsson"
+  },
+  {
+    "index": "210",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Amazon.png",
+    "answerType": "text",
+    "jawaban": "Amazon"
+  },
+  {
+    "index": "314",
+    "type": "gambar",
+    "deskripsi": "Penerbit game video Amerika yang berbasis di New York City",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Rockstar-Games.png",
+    "answerType": "text",
+    "jawaban": "Rockstar Games"
+  },
+  {
+    "index": "125",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan pakaian ritel Italia, berlokasi di Breganze",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Diesel.png",
+    "answerType": "text",
+    "jawaban": "Diesel"
+  },
+  {
+    "index": "423",
+    "type": "gambar",
+    "deskripsi": "Pembuat mobil multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Ford.png",
+    "answerType": "text",
+    "jawaban": "Ford"
+  },
+  {
+    "index": "214",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi komputer multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Dell.png",
+    "answerType": "text",
+    "jawaban": "Dell"
+  },
+  {
+    "index": "129",
+    "type": "gambar",
+    "deskripsi": "Sebuah merek ritel remaja dan dewasa muda global",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Hollister.png",
+    "answerType": "text",
+    "jawaban": "Hollister"
+  },
+  {
+    "index": "319",
+    "type": "gambar",
+    "deskripsi": "Seorang pengusaha Amerika, animator, penulis, pengisi suara, dan produser film",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/WaltDisney.png",
+    "answerType": "text",
+    "jawaban": "WaltDisney"
+  },
+  {
+    "index": "422",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil Italia",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Fiat.png",
+    "answerType": "text",
+    "jawaban": "Fiat"
+  },
+  {
+    "index": "338",
+    "type": "gambar",
+    "deskripsi": "Sebuah VoIP, pesan singkat dan platform distribusi digital",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Discord.png",
+    "answerType": "text",
+    "jawaban": "Discord"
+  },
+  {
+    "index": "133",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan multinasional Amerika yang bergerak di bidang desain, pengembangan, manufaktur",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Nike.png",
+    "answerType": "text",
+    "jawaban": "Nike"
+  },
+  {
+    "index": "136",
+    "type": "gambar",
+    "deskripsi": "Perusahaan induk fashion multinasional",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Calvin-Klein.png",
+    "answerType": "text",
+    "jawaban": "Calvin Klein"
+  },
+  {
+    "index": "431",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil multinasional Jepang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Nissan.png",
+    "answerType": "text",
+    "jawaban": "Nissan"
+  },
+  {
+    "index": "301",
+    "type": "gambar",
+    "deskripsi": "Platform konten dan perusahaan produksi Amerika Serikat",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Netflix.png",
+    "answerType": "text",
+    "jawaban": "Netflix"
+  },
+  {
+    "index": "17",
+    "type": "gambar",
+    "deskripsi": "Sebuah merek Amerika untuk keripik kentang stackable",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Pringles.png",
+    "answerType": "text",
+    "jawaban": "Pringles"
+  },
+  {
+    "index": "335",
+    "type": "gambar",
+    "deskripsi": "Platform distribusi audio online dan situs web berbagi musik",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Soundcloud.png",
+    "answerType": "text",
+    "jawaban": "Soundcloud"
+  },
+  {
+    "index": "3",
+    "type": "gambar",
+    "deskripsi": "Konglomerat manufaktur dan pengolahan makanan Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Kraft.png",
+    "answerType": "text",
+    "jawaban": "Kraft"
+  },
+  {
+    "index": "119",
+    "type": "gambar",
+    "deskripsi": "Sebuah rumah mode mewah Inggris yang berkantor pusat di London",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Burberry.png",
+    "answerType": "text",
+    "jawaban": "Burberry"
+  },
+  {
+    "index": "9",
+    "type": "gambar",
+    "deskripsi": "Perusahaan kopi dan donat multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Dunkin-Donuts.png",
+    "answerType": "text",
+    "jawaban": "Dunkin' Donuts"
+  },
+  {
+    "index": "42",
+    "type": "gambar",
+    "deskripsi": "perangkat lunak email dari google",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Gmail.png",
+    "answerType": "text",
+    "jawaban": "Gmail"
+  },
+  {
+    "index": "227",
+    "type": "gambar",
+    "deskripsi": "Konglomerat multinasional Korea Selatan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Samsung.png",
+    "answerType": "text",
+    "jawaban": "Samsung"
+  },
+  {
+    "index": "305",
+    "type": "gambar",
+    "deskripsi": "Penerbit game video Prancis yang berbasis di Paris",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Gameloft.png",
+    "answerType": "text",
+    "jawaban": "Gameloft"
+  },
+  {
+    "index": "112",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan manufaktur pakaian jadi yang terkenal dengan merek terbesarnya",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Dickies.png",
+    "answerType": "text",
+    "jawaban": "Dickies"
+  },
+  {
+    "index": "408",
+    "type": "gambar",
+    "deskripsi": "Apakah divisi kendaraan mewah dari produsen mobil Jepang Nissan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/infiniti.png",
+    "answerType": "text",
+    "jawaban": "infiniti"
+  },
+  {
+    "index": "501",
+    "type": "gambar",
+    "deskripsi": "Perusahaan Motor Amerika Serikat",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Harley-Davidson.png",
+    "answerType": "text",
+    "jawaban": "Harley Davidson"
+  },
+  {
+    "index": "16",
+    "type": "gambar",
+    "deskripsi": "Sebuah jaringan restoran cepat saji Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/KFC.png",
+    "answerType": "text",
+    "jawaban": "KFC"
+  },
+  {
+    "index": "207",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan multinasional Amerika dan perusahaan teknologi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Intel.png",
+    "answerType": "text",
+    "jawaban": "Intel"
+  },
+  {
+    "index": "211",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan semikonduktor multinasional Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/AMD.png",
+    "answerType": "text",
+    "jawaban": "AMD"
+  },
+  {
+    "index": "235",
+    "type": "gambar",
+    "deskripsi": "Merek smartphone, tablet, dan layanan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Blackberry.png",
+    "answerType": "text",
+    "jawaban": "Blackberry"
+  },
+  {
+    "index": "228",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan penyimpanan data Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Seagate.png",
+    "answerType": "text",
+    "jawaban": "Seagate"
+  },
+  {
+    "index": "10",
+    "type": "gambar",
+    "deskripsi": "Merek minuman ringan berkarbonasi rasa buah",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Fanta.png",
+    "answerType": "text",
+    "jawaban": "Fanta"
+  },
+  {
+    "index": "138",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan peralatan olahraga Amerika yang memproduksi alas kaki, pakaian olahraga dan pakaian kasual",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Fred-Perry.png",
+    "answerType": "text",
+    "jawaban": "Fred Perry"
+  },
+  {
+    "index": "44",
+    "type": "gambar",
+    "deskripsi": "Situs media sosial pada tempatnya para pendongeng handal",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Twitter-1.png",
+    "answerType": "text",
+    "jawaban": "Twitter"
+  },
+  {
+    "index": "309",
+    "type": "gambar",
+    "deskripsi": "Konglomerat hiburan, permainan video, dan perjudian Jepang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Konami.png",
+    "answerType": "text",
+    "jawaban": "Konami"
+  },
+  {
+    "index": "311",
+    "type": "gambar",
+    "deskripsi": "Pengembang dan penerbit game video multinasional Jepang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Bandai-Namco.png",
+    "answerType": "text",
+    "jawaban": "Bandai Namco"
+  },
+  {
+    "index": "212",
+    "type": "gambar",
+    "deskripsi": "Perusahaan perangkat keras dan elektronik komputer dan telepon multinasional Taiwan",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/ASUS.png",
+    "answerType": "text",
+    "jawaban": "ASUS"
+  },
+  {
+    "index": "439",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan multinasional Jerman yang memproduksi kendaraan mewah dan sepeda motor.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/BMW.png",
+    "answerType": "text",
+    "jawaban": "BMW"
+  },
+  {
+    "index": "334",
+    "type": "gambar",
+    "deskripsi": "Film epik romansa dan bencana Amerika 1997",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Titanic.png",
+    "answerType": "text",
+    "jawaban": "Titanic"
+  },
+  {
+    "index": "433",
+    "type": "gambar",
+    "deskripsi": "Produsen mobil multinasional Prancis yang didirikan pada tahun 1899.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Renault.png",
+    "answerType": "text",
+    "jawaban": "Renault"
+  },
+  {
+    "index": "26",
+    "type": "gambar",
+    "deskripsi": "Minuman ringan berkarbonasi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Coca-Cola.png",
+    "answerType": "text",
+    "jawaban": "Coca Cola"
+  },
+  {
+    "index": "333",
+    "type": "gambar",
+    "deskripsi": "Layanan jejaring sosial berbagi video",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Tik-Tok.png",
+    "answerType": "text",
+    "jawaban": "Tik Tok"
+  },
+  {
+    "index": "224",
+    "type": "gambar",
+    "deskripsi": "Produsen elektronik konsumen Cina, perusahaan Amerika yang mengoperasikan pembayaran online",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Oneplus.png",
+    "answerType": "text",
+    "jawaban": "Oneplus"
+  },
+  {
+    "index": "404",
+    "type": "gambar",
+    "deskripsi": "Marque otomotif Inggris didirikan pada tahun 1969",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Mini-Cooper.png",
+    "answerType": "text",
+    "jawaban": "Mini Cooper"
+  },
+  {
+    "index": "239",
+    "type": "gambar",
+    "deskripsi": "Aplikasi perpesanan multimedia Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Snapchat.png",
+    "answerType": "text",
+    "jawaban": "Snapchat"
+  },
+  {
+    "index": "225",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan Amerika yang mengoperasikan sistem pembayaran online",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Paypal.png",
+    "answerType": "text",
+    "jawaban": "Paypal"
+  },
+  {
+    "index": "218",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi multinasional Cina",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Huawei.png",
+    "answerType": "text",
+    "jawaban": "Huawei"
+  },
+  {
+    "index": "110",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan pakaian Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Levis.png",
+    "answerType": "text",
+    "jawaban": "Levi's"
+  },
+  {
+    "index": "402",
+    "type": "gambar",
+    "deskripsi": "Sebuah divisi dari produsen mobil Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Cadillac.png",
+    "answerType": "text",
+    "jawaban": "Cadillac"
+  },
+  {
+    "index": "111",
+    "type": "gambar",
+    "deskripsi": "Produsen jam tangan mewah yang berbasis di Jenewa, Swiss.",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/rolex.png",
+    "answerType": "text",
+    "jawaban": "rolex"
+  },
+  {
+    "index": "219",
+    "type": "gambar",
+    "deskripsi": "Subsindexiaries komunikasi seluler dari perusahaan telekomunikasi Jerman",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/T-Mobile.png",
+    "answerType": "text",
+    "jawaban": "T-Mobile"
+  },
+  {
+    "index": "332",
+    "type": "gambar",
+    "deskripsi": "Film fiksi ilmiah 1984",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Terminator.png",
+    "answerType": "text",
+    "jawaban": "Terminator"
+  },
+  {
+    "index": "204",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan teknologi multinasional Cina yang mengkhususkan diri dalam e-commerce,",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Alibaba.png",
+    "answerType": "text",
+    "jawaban": "Alibaba"
+  },
+  {
+    "index": "13",
+    "type": "gambar",
+    "deskripsi": "Konglomerat makanan Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Quaker.png",
+    "answerType": "text",
+    "jawaban": "Quaker"
+  },
+  {
+    "index": "328",
+    "type": "gambar",
+    "deskripsi": "Merek dari beberapa saluran televisi",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Paramount.png",
+    "answerType": "text",
+    "jawaban": "Paramount"
+  },
+  {
+    "index": "336",
+    "type": "gambar",
+    "deskripsi": "Perusahaan video game Prancis",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Ubisoft.png",
+    "answerType": "text",
+    "jawaban": "Ubisoft"
+  },
+  {
+    "index": "34",
+    "type": "gambar",
+    "deskripsi": "Sebuah perusahaan makanan cepat saji Amerika",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/McDonalds.png",
+    "answerType": "text",
+    "jawaban": "McDonald's"
+  },
+  {
+    "index": "430",
+    "type": "gambar",
+    "deskripsi": "Pembuat mobil multinasional Jepang",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Mazda.png",
+    "answerType": "text",
+    "jawaban": "Mazda"
+  },
+  {
+    "index": "331",
+    "type": "gambar",
+    "deskripsi": "Perusahaan induk konglomerat teknologi multinasional Cina",
+    "img": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/tebaklogo/Tencent-Games.png",
+    "answerType": "text",
+    "jawaban": "Tencent Games"
+  }
+]
